@@ -1,0 +1,1922 @@
+REPORTING_PERIOD,MEASURE_TYPE,MEASURE,CODE,CODE_DESCRIPTION,MEASURE_VALUE
+2324,Activity by Main Speciaity Code,All Attendances,100,General Surgery,4954058
+2324,Activity by Main Speciaity Code,All Attendances,101,Urology,2765938
+2324,Activity by Main Speciaity Code,All Attendances,107,Vascular Surgery,47786
+2324,Activity by Main Speciaity Code,All Attendances,110,Trauma & Orthopaedics,7280703
+2324,Activity by Main Speciaity Code,All Attendances,120,"Ear, Nose & Throat (ENT)",2814999
+2324,Activity by Main Speciaity Code,All Attendances,130,Ophthalmology,8898379
+2324,Activity by Main Speciaity Code,All Attendances,140,Oral Surgery,726643
+2324,Activity by Main Speciaity Code,All Attendances,141,Restorative Dentistry,260216
+2324,Activity by Main Speciaity Code,All Attendances,142,Paediatric Dentistry,98585
+2324,Activity by Main Speciaity Code,All Attendances,143,Orthodontics,580241
+2324,Activity by Main Speciaity Code,All Attendances,145,Oral & Maxillo Facial Surgery,595076
+2324,Activity by Main Speciaity Code,All Attendances,146,Endodontics,17632
+2324,Activity by Main Speciaity Code,All Attendances,147,Periodontics,10410
+2324,Activity by Main Speciaity Code,All Attendances,148,Prosthodontics,2763
+2324,Activity by Main Speciaity Code,All Attendances,149,Surgical Dentistry,77
+2324,Activity by Main Speciaity Code,All Attendances,150,Neurosurgery,425439
+2324,Activity by Main Speciaity Code,All Attendances,160,Plastic Surgery,1070770
+2324,Activity by Main Speciaity Code,All Attendances,170,Cardiothoracic Surgery,195969
+2324,Activity by Main Speciaity Code,All Attendances,171,Paediatric Surgery,146453
+2324,Activity by Main Speciaity Code,All Attendances,180,Accident & Emergency (A&E),182651
+2324,Activity by Main Speciaity Code,All Attendances,190,Anaesthetics,1341880
+2324,Activity by Main Speciaity Code,All Attendances,192,Critical Care Medicine,21515
+2324,Activity by Main Speciaity Code,All Attendances,300,General Medicine,4105019
+2324,Activity by Main Speciaity Code,All Attendances,301,Gastroenterology,2052864
+2324,Activity by Main Speciaity Code,All Attendances,302,Endocrinology,1056228
+2324,Activity by Main Speciaity Code,All Attendances,303,Clinical Haematology,2374810
+2324,Activity by Main Speciaity Code,All Attendances,304,Clinical Physiology,307725
+2324,Activity by Main Speciaity Code,All Attendances,305,Clinical Pharmacology,14695
+2324,Activity by Main Speciaity Code,All Attendances,310,Audiological Medicine,549449
+2324,Activity by Main Speciaity Code,All Attendances,311,Clinical Genetics,114511
+2324,Activity by Main Speciaity Code,All Attendances,313,Clinical Immunology & Allergy,105785
+2324,Activity by Main Speciaity Code,All Attendances,314,Rehabilitation,290911
+2324,Activity by Main Speciaity Code,All Attendances,315,Palliative Medicine,141771
+2324,Activity by Main Speciaity Code,All Attendances,317,Allergy,18989
+2324,Activity by Main Speciaity Code,All Attendances,320,Cardiology,3532286
+2324,Activity by Main Speciaity Code,All Attendances,321,Paediatric Cardiology,137524
+2324,Activity by Main Speciaity Code,All Attendances,325,Sports & Exercise Medicine,10894
+2324,Activity by Main Speciaity Code,All Attendances,326,Acute Internal Medicine,182981
+2324,Activity by Main Speciaity Code,All Attendances,330,Dermatology,3346915
+2324,Activity by Main Speciaity Code,All Attendances,340,Respiratory Medicine (Thoracic Medicine),2040989
+2324,Activity by Main Speciaity Code,All Attendances,350,Infectious Diseases,170250
+2324,Activity by Main Speciaity Code,All Attendances,352,Tropical Medicine,216
+2324,Activity by Main Speciaity Code,All Attendances,360,Genitourinary Medicine,155019
+2324,Activity by Main Speciaity Code,All Attendances,361,Nephrology,1034776
+2324,Activity by Main Speciaity Code,All Attendances,370,Medical Oncology,2021537
+2324,Activity by Main Speciaity Code,All Attendances,371,Nuclear Medicine,16971
+2324,Activity by Main Speciaity Code,All Attendances,400,Neurology,1510496
+2324,Activity by Main Speciaity Code,All Attendances,401,Clinical Neuro-physiology,196486
+2324,Activity by Main Speciaity Code,All Attendances,410,Rheumatology,1768016
+2324,Activity by Main Speciaity Code,All Attendances,420,Paediatrics,2844433
+2324,Activity by Main Speciaity Code,All Attendances,421,Paediatric Neurology,54895
+2324,Activity by Main Speciaity Code,All Attendances,430,Geriatric Medicine,390837
+2324,Activity by Main Speciaity Code,All Attendances,450,Dental Medicine Specialties,103062
+2324,Activity by Main Speciaity Code,All Attendances,451,Special Care Dentistry,12492
+2324,Activity by Main Speciaity Code,All Attendances,460,Medical Ophthalmology,58865
+2324,Activity by Main Speciaity Code,All Attendances,499,"Non-UK Provider; specialty function not known, treatment mainly medical",1
+2324,Activity by Main Speciaity Code,All Attendances,501,Obstetrics,2875976
+2324,Activity by Main Speciaity Code,All Attendances,502,Gynaecology,3660343
+2324,Activity by Main Speciaity Code,All Attendances,504,Community Sexual & Reproductive Health,1307
+2324,Activity by Main Speciaity Code,All Attendances,560,Midwife episode,3993414
+2324,Activity by Main Speciaity Code,All Attendances,600,General Medical Practice,120178
+2324,Activity by Main Speciaity Code,All Attendances,601,General Dental Practice,34735
+2324,Activity by Main Speciaity Code,All Attendances,700,Learning Disability (previously MH),77632
+2324,Activity by Main Speciaity Code,All Attendances,710,Adult Mental Illness,1261960
+2324,Activity by Main Speciaity Code,All Attendances,711,Child & Adolescent Psychiatry,615078
+2324,Activity by Main Speciaity Code,All Attendances,712,Forensic Psychiatry,17049
+2324,Activity by Main Speciaity Code,All Attendances,713,Psychotherapy,28312
+2324,Activity by Main Speciaity Code,All Attendances,715,Old Age Psychiatry,222023
+2324,Activity by Main Speciaity Code,All Attendances,800,Clinical Oncology (previously Radiotherapy),2674009
+2324,Activity by Main Speciaity Code,All Attendances,810,Radiology,5478814
+2324,Activity by Main Speciaity Code,All Attendances,820,General Pathology,16020
+2324,Activity by Main Speciaity Code,All Attendances,821,Blood Transfusion,24
+2324,Activity by Main Speciaity Code,All Attendances,822,Chemical Pathology,87601
+2324,Activity by Main Speciaity Code,All Attendances,823,Haematology,347537
+2324,Activity by Main Speciaity Code,All Attendances,824,Histopathology,4669
+2324,Activity by Main Speciaity Code,All Attendances,830,Immunopathology,6201
+2324,Activity by Main Speciaity Code,All Attendances,831,Medical Microbiology & Virology,5488
+2324,Activity by Main Speciaity Code,All Attendances,833,Medical Microbiology (Microbiology & Bacteriology),1605
+2324,Activity by Main Speciaity Code,All Attendances,834,Medical Virology,6244
+2324,Activity by Main Speciaity Code,All Attendances,900,Community Medicine,310129
+2324,Activity by Main Speciaity Code,All Attendances,901,Occupational Medicine,18386
+2324,Activity by Main Speciaity Code,All Attendances,902,Community Health Services Dental,2085
+2324,Activity by Main Speciaity Code,All Attendances,903,Public Health Medicine,741
+2324,Activity by Main Speciaity Code,All Attendances,950,Nursing episode,6729890
+2324,Activity by Main Speciaity Code,All Attendances,960,Allied Health Professional Episode,12286956
+2324,Activity by Main Speciaity Code,All Attendances,990,Joint Consultant Clinics (Retired 1 April 2004),2242
+2324,Activity by Main Speciaity Code,All Attendances,&,Not Known,587288
+2324,Activity by Main Speciaity Code,All Attendances,All,All,104634817
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,100,General Surgery,56
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,101,Urology,57
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,110,Trauma & Orthopaedics,107
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,120,"Ear, Nose & Throat (ENT)",74
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,130,Ophthalmology,5964
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,140,Oral Surgery,2
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,141,Restorative Dentistry,6
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,142,Paediatric Dentistry,1
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,143,Orthodontics,10
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,145,Oral & Maxillo Facial Surgery,17
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,300,General Medicine,169
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,301,Gastroenterology,17
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,303,Clinical Haematology,28
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,304,Clinical Physiology,26
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,320,Cardiology,24
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,321,Paediatric Cardiology,4
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,326,Acute Internal Medicine,1
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,330,Dermatology,99
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,340,Respiratory Medicine (Thoracic Medicine),8
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,400,Neurology,1
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,410,Rheumatology,32
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,420,Paediatrics,354
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,430,Geriatric Medicine,14
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,501,Obstetrics,53
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,502,Gynaecology,229
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,710,Adult Mental Illness,1
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,711,Child & Adolescent Psychiatry,2
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,800,Clinical Oncology (previously Radiotherapy),6
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,823,Haematology,4
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,950,Nursing episode,2
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,960,Allied Health Professional Episode,110
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,&,Not Known,317
+2324,Activity by Main Speciaity Code,Attended but first/subsequent/tele unknown,All,All,7795
+2324,Activity by Main Speciaity Code,Attended first appointment,100,General Surgery,1939664
+2324,Activity by Main Speciaity Code,Attended first appointment,101,Urology,753620
+2324,Activity by Main Speciaity Code,Attended first appointment,107,Vascular Surgery,23245
+2324,Activity by Main Speciaity Code,Attended first appointment,110,Trauma & Orthopaedics,2083967
+2324,Activity by Main Speciaity Code,Attended first appointment,120,"Ear, Nose & Throat (ENT)",1225965
+2324,Activity by Main Speciaity Code,Attended first appointment,130,Ophthalmology,2242793
+2324,Activity by Main Speciaity Code,Attended first appointment,140,Oral Surgery,311458
+2324,Activity by Main Speciaity Code,Attended first appointment,141,Restorative Dentistry,42241
+2324,Activity by Main Speciaity Code,Attended first appointment,142,Paediatric Dentistry,30194
+2324,Activity by Main Speciaity Code,Attended first appointment,143,Orthodontics,57127
+2324,Activity by Main Speciaity Code,Attended first appointment,145,Oral & Maxillo Facial Surgery,241060
+2324,Activity by Main Speciaity Code,Attended first appointment,146,Endodontics,1754
+2324,Activity by Main Speciaity Code,Attended first appointment,147,Periodontics,436
+2324,Activity by Main Speciaity Code,Attended first appointment,148,Prosthodontics,487
+2324,Activity by Main Speciaity Code,Attended first appointment,149,Surgical Dentistry,24
+2324,Activity by Main Speciaity Code,Attended first appointment,150,Neurosurgery,116556
+2324,Activity by Main Speciaity Code,Attended first appointment,160,Plastic Surgery,345027
+2324,Activity by Main Speciaity Code,Attended first appointment,170,Cardiothoracic Surgery,51469
+2324,Activity by Main Speciaity Code,Attended first appointment,171,Paediatric Surgery,57056
+2324,Activity by Main Speciaity Code,Attended first appointment,180,Accident & Emergency (A&E),133574
+2324,Activity by Main Speciaity Code,Attended first appointment,190,Anaesthetics,357739
+2324,Activity by Main Speciaity Code,Attended first appointment,192,Critical Care Medicine,4168
+2324,Activity by Main Speciaity Code,Attended first appointment,300,General Medicine,964260
+2324,Activity by Main Speciaity Code,Attended first appointment,301,Gastroenterology,442331
+2324,Activity by Main Speciaity Code,Attended first appointment,302,Endocrinology,174420
+2324,Activity by Main Speciaity Code,Attended first appointment,303,Clinical Haematology,178965
+2324,Activity by Main Speciaity Code,Attended first appointment,304,Clinical Physiology,212930
+2324,Activity by Main Speciaity Code,Attended first appointment,305,Clinical Pharmacology,4092
+2324,Activity by Main Speciaity Code,Attended first appointment,310,Audiological Medicine,225191
+2324,Activity by Main Speciaity Code,Attended first appointment,311,Clinical Genetics,49167
+2324,Activity by Main Speciaity Code,Attended first appointment,313,Clinical Immunology & Allergy,27198
+2324,Activity by Main Speciaity Code,Attended first appointment,314,Rehabilitation,69129
+2324,Activity by Main Speciaity Code,Attended first appointment,315,Palliative Medicine,17330
+2324,Activity by Main Speciaity Code,Attended first appointment,317,Allergy,6128
+2324,Activity by Main Speciaity Code,Attended first appointment,320,Cardiology,1327397
+2324,Activity by Main Speciaity Code,Attended first appointment,321,Paediatric Cardiology,31339
+2324,Activity by Main Speciaity Code,Attended first appointment,325,Sports & Exercise Medicine,2761
+2324,Activity by Main Speciaity Code,Attended first appointment,326,Acute Internal Medicine,93333
+2324,Activity by Main Speciaity Code,Attended first appointment,330,Dermatology,1196637
+2324,Activity by Main Speciaity Code,Attended first appointment,340,Respiratory Medicine (Thoracic Medicine),565082
+2324,Activity by Main Speciaity Code,Attended first appointment,350,Infectious Diseases,32940
+2324,Activity by Main Speciaity Code,Attended first appointment,352,Tropical Medicine,98
+2324,Activity by Main Speciaity Code,Attended first appointment,360,Genitourinary Medicine,19466
+2324,Activity by Main Speciaity Code,Attended first appointment,361,Nephrology,96847
+2324,Activity by Main Speciaity Code,Attended first appointment,370,Medical Oncology,136971
+2324,Activity by Main Speciaity Code,Attended first appointment,371,Nuclear Medicine,7388
+2324,Activity by Main Speciaity Code,Attended first appointment,400,Neurology,425540
+2324,Activity by Main Speciaity Code,Attended first appointment,401,Clinical Neuro-physiology,165849
+2324,Activity by Main Speciaity Code,Attended first appointment,410,Rheumatology,295909
+2324,Activity by Main Speciaity Code,Attended first appointment,420,Paediatrics,1015831
+2324,Activity by Main Speciaity Code,Attended first appointment,421,Paediatric Neurology,15160
+2324,Activity by Main Speciaity Code,Attended first appointment,430,Geriatric Medicine,149802
+2324,Activity by Main Speciaity Code,Attended first appointment,450,Dental Medicine Specialties,25821
+2324,Activity by Main Speciaity Code,Attended first appointment,451,Special Care Dentistry,3664
+2324,Activity by Main Speciaity Code,Attended first appointment,460,Medical Ophthalmology,12614
+2324,Activity by Main Speciaity Code,Attended first appointment,499,"Non-UK Provider; specialty function not known, treatment mainly medical",1
+2324,Activity by Main Speciaity Code,Attended first appointment,501,Obstetrics,802401
+2324,Activity by Main Speciaity Code,Attended first appointment,502,Gynaecology,1498379
+2324,Activity by Main Speciaity Code,Attended first appointment,504,Community Sexual & Reproductive Health,306
+2324,Activity by Main Speciaity Code,Attended first appointment,560,Midwife episode,749202
+2324,Activity by Main Speciaity Code,Attended first appointment,600,General Medical Practice,89466
+2324,Activity by Main Speciaity Code,Attended first appointment,601,General Dental Practice,4351
+2324,Activity by Main Speciaity Code,Attended first appointment,700,Learning Disability (previously MH),7752
+2324,Activity by Main Speciaity Code,Attended first appointment,710,Adult Mental Illness,138464
+2324,Activity by Main Speciaity Code,Attended first appointment,711,Child & Adolescent Psychiatry,58682
+2324,Activity by Main Speciaity Code,Attended first appointment,712,Forensic Psychiatry,2328
+2324,Activity by Main Speciaity Code,Attended first appointment,713,Psychotherapy,1626
+2324,Activity by Main Speciaity Code,Attended first appointment,715,Old Age Psychiatry,38489
+2324,Activity by Main Speciaity Code,Attended first appointment,800,Clinical Oncology (previously Radiotherapy),238080
+2324,Activity by Main Speciaity Code,Attended first appointment,810,Radiology,3071990
+2324,Activity by Main Speciaity Code,Attended first appointment,820,General Pathology,1027
+2324,Activity by Main Speciaity Code,Attended first appointment,821,Blood Transfusion,1
+2324,Activity by Main Speciaity Code,Attended first appointment,822,Chemical Pathology,19749
+2324,Activity by Main Speciaity Code,Attended first appointment,823,Haematology,25040
+2324,Activity by Main Speciaity Code,Attended first appointment,824,Histopathology,297
+2324,Activity by Main Speciaity Code,Attended first appointment,830,Immunopathology,1561
+2324,Activity by Main Speciaity Code,Attended first appointment,831,Medical Microbiology & Virology,853
+2324,Activity by Main Speciaity Code,Attended first appointment,833,Medical Microbiology (Microbiology & Bacteriology),679
+2324,Activity by Main Speciaity Code,Attended first appointment,834,Medical Virology,1312
+2324,Activity by Main Speciaity Code,Attended first appointment,900,Community Medicine,79860
+2324,Activity by Main Speciaity Code,Attended first appointment,901,Occupational Medicine,5443
+2324,Activity by Main Speciaity Code,Attended first appointment,902,Community Health Services Dental,492
+2324,Activity by Main Speciaity Code,Attended first appointment,903,Public Health Medicine,297
+2324,Activity by Main Speciaity Code,Attended first appointment,950,Nursing episode,1096304
+2324,Activity by Main Speciaity Code,Attended first appointment,960,Allied Health Professional Episode,3482506
+2324,Activity by Main Speciaity Code,Attended first appointment,990,Joint Consultant Clinics (Retired 1 April 2004),813
+2324,Activity by Main Speciaity Code,Attended first appointment,&,Not Known,92255
+2324,Activity by Main Speciaity Code,Attended first appointment,All,All,29521220
+2324,Activity by Main Speciaity Code,Attended first tele consultation,100,General Surgery,367877
+2324,Activity by Main Speciaity Code,Attended first tele consultation,101,Urology,163825
+2324,Activity by Main Speciaity Code,Attended first tele consultation,107,Vascular Surgery,1443
+2324,Activity by Main Speciaity Code,Attended first tele consultation,110,Trauma & Orthopaedics,541218
+2324,Activity by Main Speciaity Code,Attended first tele consultation,120,"Ear, Nose & Throat (ENT)",65383
+2324,Activity by Main Speciaity Code,Attended first tele consultation,130,Ophthalmology,165655
+2324,Activity by Main Speciaity Code,Attended first tele consultation,140,Oral Surgery,7928
+2324,Activity by Main Speciaity Code,Attended first tele consultation,141,Restorative Dentistry,2963
+2324,Activity by Main Speciaity Code,Attended first tele consultation,142,Paediatric Dentistry,3164
+2324,Activity by Main Speciaity Code,Attended first tele consultation,143,Orthodontics,412
+2324,Activity by Main Speciaity Code,Attended first tele consultation,145,Oral & Maxillo Facial Surgery,6882
+2324,Activity by Main Speciaity Code,Attended first tele consultation,146,Endodontics,917
+2324,Activity by Main Speciaity Code,Attended first tele consultation,147,Periodontics,403
+2324,Activity by Main Speciaity Code,Attended first tele consultation,148,Prosthodontics,145
+2324,Activity by Main Speciaity Code,Attended first tele consultation,149,Surgical Dentistry,4
+2324,Activity by Main Speciaity Code,Attended first tele consultation,150,Neurosurgery,35314
+2324,Activity by Main Speciaity Code,Attended first tele consultation,160,Plastic Surgery,27278
+2324,Activity by Main Speciaity Code,Attended first tele consultation,170,Cardiothoracic Surgery,8275
+2324,Activity by Main Speciaity Code,Attended first tele consultation,171,Paediatric Surgery,4433
+2324,Activity by Main Speciaity Code,Attended first tele consultation,180,Accident & Emergency (A&E),2786
+2324,Activity by Main Speciaity Code,Attended first tele consultation,190,Anaesthetics,124182
+2324,Activity by Main Speciaity Code,Attended first tele consultation,192,Critical Care Medicine,1952
+2324,Activity by Main Speciaity Code,Attended first tele consultation,300,General Medicine,296240
+2324,Activity by Main Speciaity Code,Attended first tele consultation,301,Gastroenterology,327683
+2324,Activity by Main Speciaity Code,Attended first tele consultation,302,Endocrinology,57934
+2324,Activity by Main Speciaity Code,Attended first tele consultation,303,Clinical Haematology,71520
+2324,Activity by Main Speciaity Code,Attended first tele consultation,304,Clinical Physiology,443
+2324,Activity by Main Speciaity Code,Attended first tele consultation,305,Clinical Pharmacology,1226
+2324,Activity by Main Speciaity Code,Attended first tele consultation,310,Audiological Medicine,12261
+2324,Activity by Main Speciaity Code,Attended first tele consultation,311,Clinical Genetics,23193
+2324,Activity by Main Speciaity Code,Attended first tele consultation,313,Clinical Immunology & Allergy,8866
+2324,Activity by Main Speciaity Code,Attended first tele consultation,314,Rehabilitation,9787
+2324,Activity by Main Speciaity Code,Attended first tele consultation,315,Palliative Medicine,7098
+2324,Activity by Main Speciaity Code,Attended first tele consultation,317,Allergy,1572
+2324,Activity by Main Speciaity Code,Attended first tele consultation,320,Cardiology,258129
+2324,Activity by Main Speciaity Code,Attended first tele consultation,321,Paediatric Cardiology,1065
+2324,Activity by Main Speciaity Code,Attended first tele consultation,325,Sports & Exercise Medicine,282
+2324,Activity by Main Speciaity Code,Attended first tele consultation,326,Acute Internal Medicine,10732
+2324,Activity by Main Speciaity Code,Attended first tele consultation,330,Dermatology,99110
+2324,Activity by Main Speciaity Code,Attended first tele consultation,340,Respiratory Medicine (Thoracic Medicine),142347
+2324,Activity by Main Speciaity Code,Attended first tele consultation,350,Infectious Diseases,7279
+2324,Activity by Main Speciaity Code,Attended first tele consultation,352,Tropical Medicine,2
+2324,Activity by Main Speciaity Code,Attended first tele consultation,360,Genitourinary Medicine,2017
+2324,Activity by Main Speciaity Code,Attended first tele consultation,361,Nephrology,16148
+2324,Activity by Main Speciaity Code,Attended first tele consultation,370,Medical Oncology,25212
+2324,Activity by Main Speciaity Code,Attended first tele consultation,371,Nuclear Medicine,708
+2324,Activity by Main Speciaity Code,Attended first tele consultation,400,Neurology,114517
+2324,Activity by Main Speciaity Code,Attended first tele consultation,401,Clinical Neuro-physiology,3163
+2324,Activity by Main Speciaity Code,Attended first tele consultation,410,Rheumatology,39709
+2324,Activity by Main Speciaity Code,Attended first tele consultation,420,Paediatrics,90006
+2324,Activity by Main Speciaity Code,Attended first tele consultation,421,Paediatric Neurology,1143
+2324,Activity by Main Speciaity Code,Attended first tele consultation,430,Geriatric Medicine,37587
+2324,Activity by Main Speciaity Code,Attended first tele consultation,450,Dental Medicine Specialties,2140
+2324,Activity by Main Speciaity Code,Attended first tele consultation,451,Special Care Dentistry,21
+2324,Activity by Main Speciaity Code,Attended first tele consultation,460,Medical Ophthalmology,235
+2324,Activity by Main Speciaity Code,Attended first tele consultation,501,Obstetrics,76318
+2324,Activity by Main Speciaity Code,Attended first tele consultation,502,Gynaecology,161081
+2324,Activity by Main Speciaity Code,Attended first tele consultation,504,Community Sexual & Reproductive Health,237
+2324,Activity by Main Speciaity Code,Attended first tele consultation,560,Midwife episode,43398
+2324,Activity by Main Speciaity Code,Attended first tele consultation,600,General Medical Practice,1371
+2324,Activity by Main Speciaity Code,Attended first tele consultation,601,General Dental Practice,964
+2324,Activity by Main Speciaity Code,Attended first tele consultation,700,Learning Disability (previously MH),2086
+2324,Activity by Main Speciaity Code,Attended first tele consultation,710,Adult Mental Illness,39977
+2324,Activity by Main Speciaity Code,Attended first tele consultation,711,Child & Adolescent Psychiatry,24396
+2324,Activity by Main Speciaity Code,Attended first tele consultation,712,Forensic Psychiatry,211
+2324,Activity by Main Speciaity Code,Attended first tele consultation,713,Psychotherapy,2334
+2324,Activity by Main Speciaity Code,Attended first tele consultation,715,Old Age Psychiatry,5371
+2324,Activity by Main Speciaity Code,Attended first tele consultation,800,Clinical Oncology (previously Radiotherapy),45337
+2324,Activity by Main Speciaity Code,Attended first tele consultation,810,Radiology,11856
+2324,Activity by Main Speciaity Code,Attended first tele consultation,820,General Pathology,378
+2324,Activity by Main Speciaity Code,Attended first tele consultation,821,Blood Transfusion,1
+2324,Activity by Main Speciaity Code,Attended first tele consultation,822,Chemical Pathology,9777
+2324,Activity by Main Speciaity Code,Attended first tele consultation,823,Haematology,16409
+2324,Activity by Main Speciaity Code,Attended first tele consultation,824,Histopathology,675
+2324,Activity by Main Speciaity Code,Attended first tele consultation,830,Immunopathology,539
+2324,Activity by Main Speciaity Code,Attended first tele consultation,831,Medical Microbiology & Virology,982
+2324,Activity by Main Speciaity Code,Attended first tele consultation,833,Medical Microbiology (Microbiology & Bacteriology),133
+2324,Activity by Main Speciaity Code,Attended first tele consultation,834,Medical Virology,148
+2324,Activity by Main Speciaity Code,Attended first tele consultation,900,Community Medicine,10348
+2324,Activity by Main Speciaity Code,Attended first tele consultation,901,Occupational Medicine,402
+2324,Activity by Main Speciaity Code,Attended first tele consultation,902,Community Health Services Dental,3
+2324,Activity by Main Speciaity Code,Attended first tele consultation,903,Public Health Medicine,17
+2324,Activity by Main Speciaity Code,Attended first tele consultation,950,Nursing episode,401114
+2324,Activity by Main Speciaity Code,Attended first tele consultation,960,Allied Health Professional Episode,402505
+2324,Activity by Main Speciaity Code,Attended first tele consultation,990,Joint Consultant Clinics (Retired 1 April 2004),112
+2324,Activity by Main Speciaity Code,Attended first tele consultation,&,Not Known,13392
+2324,Activity by Main Speciaity Code,Attended first tele consultation,All,All,4473686
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,100,General Surgery,1939864
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,101,Urology,1170490
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,107,Vascular Surgery,18587
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,110,Trauma & Orthopaedics,4201711
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,120,"Ear, Nose & Throat (ENT)",1304727
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,130,Ophthalmology,6102762
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,140,Oral Surgery,368336
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,141,Restorative Dentistry,210805
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,142,Paediatric Dentistry,61512
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,143,Orthodontics,518009
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,145,Oral & Maxillo Facial Surgery,307652
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,146,Endodontics,14730
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,147,Periodontics,9394
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,148,Prosthodontics,2083
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,149,Surgical Dentistry,49
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,150,Neurosurgery,167811
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,160,Plastic Surgery,631594
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,170,Cardiothoracic Surgery,98725
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,171,Paediatric Surgery,61923
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,180,Accident & Emergency (A&E),40360
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,190,Anaesthetics,558888
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,192,Critical Care Medicine,6850
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,300,General Medicine,2073850
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,301,Gastroenterology,578759
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,302,Endocrinology,502241
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,303,Clinical Haematology,1308785
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,304,Clinical Physiology,88202
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,305,Clinical Pharmacology,6482
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,310,Audiological Medicine,289692
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,311,Clinical Genetics,26808
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,313,Clinical Immunology & Allergy,40551
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,314,Rehabilitation,184087
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,315,Palliative Medicine,54965
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,317,Allergy,6716
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,320,Cardiology,1347135
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,321,Paediatric Cardiology,90587
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,325,Sports & Exercise Medicine,6229
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,326,Acute Internal Medicine,60389
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,330,Dermatology,1857373
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,340,Respiratory Medicine (Thoracic Medicine),887222
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,350,Infectious Diseases,104219
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,352,Tropical Medicine,110
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,360,Genitourinary Medicine,111577
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,361,Nephrology,739640
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,370,Medical Oncology,1248389
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,371,Nuclear Medicine,6015
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,400,Neurology,617361
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,401,Clinical Neuro-physiology,26337
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,410,Rheumatology,1001184
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,420,Paediatrics,1376737
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,421,Paediatric Neurology,28296
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,430,Geriatric Medicine,135231
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,450,Dental Medicine Specialties,65766
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,451,Special Care Dentistry,8524
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,460,Medical Ophthalmology,44548
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,501,Obstetrics,1855521
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,502,Gynaecology,1670500
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,504,Community Sexual & Reproductive Health,232
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,560,Midwife episode,3028768
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,600,General Medical Practice,27135
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,601,General Dental Practice,27477
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,700,Learning Disability (previously MH),53243
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,710,Adult Mental Illness,844967
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,711,Child & Adolescent Psychiatry,388302
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,712,Forensic Psychiatry,13014
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,713,Psychotherapy,15478
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,715,Old Age Psychiatry,131577
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,800,Clinical Oncology (previously Radiotherapy),1746028
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,810,Radiology,2368001
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,820,General Pathology,13249
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,821,Blood Transfusion,17
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,822,Chemical Pathology,20373
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,823,Haematology,189427
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,824,Histopathology,1268
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,830,Immunopathology,1983
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,831,Medical Microbiology & Virology,3068
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,833,Medical Microbiology (Microbiology & Bacteriology),471
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,834,Medical Virology,4067
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,900,Community Medicine,204564
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,901,Occupational Medicine,10761
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,902,Community Health Services Dental,1295
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,903,Public Health Medicine,354
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,950,Nursing episode,3558583
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,960,Allied Health Professional Episode,7201194
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,990,Joint Consultant Clinics (Retired 1 April 2004),1097
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,&,Not Known,448549
+2324,Activity by Main Speciaity Code,Attended subsequent appointment,All,All,56551432
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,100,General Surgery,706597
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,101,Urology,677946
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,107,Vascular Surgery,4511
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,110,Trauma & Orthopaedics,453700
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,120,"Ear, Nose & Throat (ENT)",218850
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,130,Ophthalmology,381205
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,140,Oral Surgery,38919
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,141,Restorative Dentistry,4201
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,142,Paediatric Dentistry,3714
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,143,Orthodontics,4683
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,145,Oral & Maxillo Facial Surgery,39465
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,146,Endodontics,231
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,147,Periodontics,177
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,148,Prosthodontics,48
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,150,Neurosurgery,105758
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,160,Plastic Surgery,66871
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,170,Cardiothoracic Surgery,37500
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,171,Paediatric Surgery,23041
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,180,Accident & Emergency (A&E),5931
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,190,Anaesthetics,301071
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,192,Critical Care Medicine,8545
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,300,General Medicine,770500
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,301,Gastroenterology,704074
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,302,Endocrinology,321633
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,303,Clinical Haematology,815512
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,304,Clinical Physiology,6124
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,305,Clinical Pharmacology,2895
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,310,Audiological Medicine,22305
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,311,Clinical Genetics,15343
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,313,Clinical Immunology & Allergy,29170
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,314,Rehabilitation,27908
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,315,Palliative Medicine,62378
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,317,Allergy,4573
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,320,Cardiology,599601
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,321,Paediatric Cardiology,14529
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,325,Sports & Exercise Medicine,1622
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,326,Acute Internal Medicine,18526
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,330,Dermatology,193696
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,340,Respiratory Medicine (Thoracic Medicine),446330
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,350,Infectious Diseases,25812
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,352,Tropical Medicine,6
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,360,Genitourinary Medicine,21959
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,361,Nephrology,182141
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,370,Medical Oncology,610965
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,371,Nuclear Medicine,2860
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,400,Neurology,353077
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,401,Clinical Neuro-physiology,1137
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,410,Rheumatology,431182
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,420,Paediatrics,361505
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,421,Paediatric Neurology,10296
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,430,Geriatric Medicine,68203
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,450,Dental Medicine Specialties,9335
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,451,Special Care Dentistry,283
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,460,Medical Ophthalmology,1468
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,501,Obstetrics,141683
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,502,Gynaecology,330154
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,504,Community Sexual & Reproductive Health,532
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,560,Midwife episode,172046
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,600,General Medical Practice,2206
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,601,General Dental Practice,1943
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,700,Learning Disability (previously MH),14551
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,710,Adult Mental Illness,238551
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,711,Child & Adolescent Psychiatry,143696
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,712,Forensic Psychiatry,1496
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,713,Psychotherapy,8874
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,715,Old Age Psychiatry,46586
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,800,Clinical Oncology (previously Radiotherapy),644558
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,810,Radiology,26967
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,820,General Pathology,1366
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,821,Blood Transfusion,5
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,822,Chemical Pathology,37702
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,823,Haematology,116657
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,824,Histopathology,2429
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,830,Immunopathology,2118
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,831,Medical Microbiology & Virology,585
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,833,Medical Microbiology (Microbiology & Bacteriology),322
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,834,Medical Virology,717
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,900,Community Medicine,15357
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,901,Occupational Medicine,1780
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,902,Community Health Services Dental,295
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,903,Public Health Medicine,73
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,950,Nursing episode,1673887
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,960,Allied Health Professional Episode,1200641
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,990,Joint Consultant Clinics (Retired 1 April 2004),220
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,&,Not Known,32775
+2324,Activity by Main Speciaity Code,Attended subsequent tele consultation,All,All,14080684
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,100,General Surgery,1.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,101,Urology,2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,107,Vascular Surgery,0.9
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,110,Trauma & Orthopaedics,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,120,"Ear, Nose & Throat (ENT)",1.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,130,Ophthalmology,2.7
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,140,Oral Surgery,1.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,141,Restorative Dentistry,4.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,142,Paediatric Dentistry,2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,143,Orthodontics,9.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,145,Oral & Maxillo Facial Surgery,1.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,146,Endodontics,5.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,147,Periodontics,11.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,148,Prosthodontics,3.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,149,Surgical Dentistry,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,150,Neurosurgery,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,160,Plastic Surgery,1.9
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,170,Cardiothoracic Surgery,2.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,171,Paediatric Surgery,1.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,180,Accident & Emergency (A&E),0.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,190,Anaesthetics,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,192,Critical Care Medicine,2.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,300,General Medicine,2.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,301,Gastroenterology,1.7
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,302,Endocrinology,3.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,303,Clinical Haematology,8.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,304,Clinical Physiology,0.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,305,Clinical Pharmacology,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,310,Audiological Medicine,1.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,311,Clinical Genetics,0.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,313,Clinical Immunology & Allergy,1.9
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,314,Rehabilitation,2.7
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,315,Palliative Medicine,4.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,317,Allergy,1.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,320,Cardiology,1.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,321,Paediatric Cardiology,3.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,325,Sports & Exercise Medicine,2.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,326,Acute Internal Medicine,0.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,330,Dermatology,1.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,340,Respiratory Medicine (Thoracic Medicine),1.9
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,350,Infectious Diseases,3.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,352,Tropical Medicine,1.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,360,Genitourinary Medicine,6.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,361,Nephrology,8.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,370,Medical Oncology,11.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,371,Nuclear Medicine,1.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,400,Neurology,1.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,401,Clinical Neuro-physiology,0.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,410,Rheumatology,4.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,420,Paediatrics,1.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,421,Paediatric Neurology,2.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,430,Geriatric Medicine,1.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,450,Dental Medicine Specialties,2.7
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,451,Special Care Dentistry,2.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,460,Medical Ophthalmology,3.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,499,"Non-UK Provider; specialty function not known, treatment mainly medical",0
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,501,Obstetrics,2.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,502,Gynaecology,1.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,504,Community Sexual & Reproductive Health,1.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,560,Midwife episode,4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,600,General Medical Practice,0.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,601,General Dental Practice,5.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,700,Learning Disability (previously MH),6.9
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,710,Adult Mental Illness,6.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,711,Child & Adolescent Psychiatry,6.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,712,Forensic Psychiatry,5.7
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,713,Psychotherapy,6.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,715,Old Age Psychiatry,4.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,800,Clinical Oncology (previously Radiotherapy),8.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,810,Radiology,0.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,820,General Pathology,10.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,821,Blood Transfusion,11
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,822,Chemical Pathology,2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,823,Haematology,7.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,824,Histopathology,3.8
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,830,Immunopathology,2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,831,Medical Microbiology & Virology,2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,833,Medical Microbiology (Microbiology & Bacteriology),1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,834,Medical Virology,3.3
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,900,Community Medicine,2.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,901,Occupational Medicine,2.1
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,902,Community Health Services Dental,3.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,903,Public Health Medicine,1.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,950,Nursing episode,3.5
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,960,Allied Health Professional Episode,2.2
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,990,Joint Consultant Clinics (Retired 1 April 2004),1.4
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,&,Not Known,4.6
+2324,Activity by Main Speciaity Code,Follow-up attendances for each first attendance,All,All,2.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,100,General Surgery,4.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,101,Urology,2.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,107,Vascular Surgery,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,110,Trauma & Orthopaedics,7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,120,"Ear, Nose & Throat (ENT)",2.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,130,Ophthalmology,8.5
+2324,Activity by Main Speciaity Code,Percentage of all attendances,140,Oral Surgery,0.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,141,Restorative Dentistry,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,142,Paediatric Dentistry,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,143,Orthodontics,0.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,145,Oral & Maxillo Facial Surgery,0.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,146,Endodontics,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,147,Periodontics,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,148,Prosthodontics,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,149,Surgical Dentistry,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,150,Neurosurgery,0.4
+2324,Activity by Main Speciaity Code,Percentage of all attendances,160,Plastic Surgery,1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,170,Cardiothoracic Surgery,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,171,Paediatric Surgery,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,180,Accident & Emergency (A&E),0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,190,Anaesthetics,1.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,192,Critical Care Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,300,General Medicine,3.9
+2324,Activity by Main Speciaity Code,Percentage of all attendances,301,Gastroenterology,2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,302,Endocrinology,1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,303,Clinical Haematology,2.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,304,Clinical Physiology,0.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,305,Clinical Pharmacology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,310,Audiological Medicine,0.5
+2324,Activity by Main Speciaity Code,Percentage of all attendances,311,Clinical Genetics,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,313,Clinical Immunology & Allergy,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,314,Rehabilitation,0.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,315,Palliative Medicine,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,317,Allergy,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,320,Cardiology,3.4
+2324,Activity by Main Speciaity Code,Percentage of all attendances,321,Paediatric Cardiology,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,325,Sports & Exercise Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,326,Acute Internal Medicine,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,330,Dermatology,3.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,340,Respiratory Medicine (Thoracic Medicine),2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,350,Infectious Diseases,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,352,Tropical Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,360,Genitourinary Medicine,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,361,Nephrology,1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,370,Medical Oncology,1.9
+2324,Activity by Main Speciaity Code,Percentage of all attendances,371,Nuclear Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,400,Neurology,1.4
+2324,Activity by Main Speciaity Code,Percentage of all attendances,401,Clinical Neuro-physiology,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,410,Rheumatology,1.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,420,Paediatrics,2.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,421,Paediatric Neurology,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,430,Geriatric Medicine,0.4
+2324,Activity by Main Speciaity Code,Percentage of all attendances,450,Dental Medicine Specialties,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,451,Special Care Dentistry,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,460,Medical Ophthalmology,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,499,"Non-UK Provider; specialty function not known, treatment mainly medical",0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,501,Obstetrics,2.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,502,Gynaecology,3.5
+2324,Activity by Main Speciaity Code,Percentage of all attendances,504,Community Sexual & Reproductive Health,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,560,Midwife episode,3.8
+2324,Activity by Main Speciaity Code,Percentage of all attendances,600,General Medical Practice,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,601,General Dental Practice,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,700,Learning Disability (previously MH),0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,710,Adult Mental Illness,1.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,711,Child & Adolescent Psychiatry,0.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,712,Forensic Psychiatry,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,713,Psychotherapy,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,715,Old Age Psychiatry,0.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,800,Clinical Oncology (previously Radiotherapy),2.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,810,Radiology,5.2
+2324,Activity by Main Speciaity Code,Percentage of all attendances,820,General Pathology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,821,Blood Transfusion,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,822,Chemical Pathology,0.1
+2324,Activity by Main Speciaity Code,Percentage of all attendances,823,Haematology,0.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,824,Histopathology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,830,Immunopathology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,831,Medical Microbiology & Virology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,833,Medical Microbiology (Microbiology & Bacteriology),0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,834,Medical Virology,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,900,Community Medicine,0.3
+2324,Activity by Main Speciaity Code,Percentage of all attendances,901,Occupational Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,902,Community Health Services Dental,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,903,Public Health Medicine,0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,950,Nursing episode,6.4
+2324,Activity by Main Speciaity Code,Percentage of all attendances,960,Allied Health Professional Episode,11.7
+2324,Activity by Main Speciaity Code,Percentage of all attendances,990,Joint Consultant Clinics (Retired 1 April 2004),0
+2324,Activity by Main Speciaity Code,Percentage of all attendances,&,Not Known,0.6
+2324,Activity by Main Speciaity Code,Percentage of all attendances,All,All,100
+2324,Activity by Treatment Function,All Attendances,100,General Surgery,1963213
+2324,Activity by Treatment Function,All Attendances,101,Urology,3091473
+2324,Activity by Treatment Function,All Attendances,102,Transplantation Surgery,104112
+2324,Activity by Treatment Function,All Attendances,103,Breast Surgery,1566962
+2324,Activity by Treatment Function,All Attendances,104,Colorectal Surgery,1135361
+2324,Activity by Treatment Function,All Attendances,105,Hepatobiliary & Pancreatic Surgery,93526
+2324,Activity by Treatment Function,All Attendances,106,Upper Gastrointestinal Surgery,211265
+2324,Activity by Treatment Function,All Attendances,107,Vascular Surgery,553658
+2324,Activity by Treatment Function,All Attendances,108,Spinal Surgery Service,323282
+2324,Activity by Treatment Function,All Attendances,109,Bariatric Surgery Service,35590
+2324,Activity by Treatment Function,All Attendances,110,Trauma & Orthopaedics,6963016
+2324,Activity by Treatment Function,All Attendances,111,Orthopaedic Service,65899
+2324,Activity by Treatment Function,All Attendances,113,Endocrine Surgery Service,8819
+2324,Activity by Treatment Function,All Attendances,115,Trauma Surgery Service,30925
+2324,Activity by Treatment Function,All Attendances,120,"Ear, Nose & Throat (ENT)",2663131
+2324,Activity by Treatment Function,All Attendances,130,Ophthalmology,8858272
+2324,Activity by Treatment Function,All Attendances,140,Oral Surgery,732826
+2324,Activity by Treatment Function,All Attendances,141,Restorative Dentistry,342365
+2324,Activity by Treatment Function,All Attendances,142,Paediatric Dentistry,105957
+2324,Activity by Treatment Function,All Attendances,143,Orthodontics,626791
+2324,Activity by Treatment Function,All Attendances,144,Maxillo Facial Surgery,476900
+2324,Activity by Treatment Function,All Attendances,145,Oral and Maxillofacial Surgery Service,121050
+2324,Activity by Treatment Function,All Attendances,150,Neurosurgery,388763
+2324,Activity by Treatment Function,All Attendances,160,Plastic Surgery,1025102
+2324,Activity by Treatment Function,All Attendances,161,Burns Care,57786
+2324,Activity by Treatment Function,All Attendances,170,Cardiothoracic Surgery,39802
+2324,Activity by Treatment Function,All Attendances,171,Paediatric Surgery,157867
+2324,Activity by Treatment Function,All Attendances,172,Cardiac Surgery,81706
+2324,Activity by Treatment Function,All Attendances,173,Thoracic Surgery,82728
+2324,Activity by Treatment Function,All Attendances,174,Cardiothoracic Transplantation,15250
+2324,Activity by Treatment Function,All Attendances,180,Accident & Emergency (A&E),168328
+2324,Activity by Treatment Function,All Attendances,190,Anaesthetics,1026898
+2324,Activity by Treatment Function,All Attendances,191,Pain Management,703675
+2324,Activity by Treatment Function,All Attendances,192,Critical Care Medicine,14887
+2324,Activity by Treatment Function,All Attendances,211,Paediatric Urology,80406
+2324,Activity by Treatment Function,All Attendances,212,Paediatric Transplantation Surgery,928
+2324,Activity by Treatment Function,All Attendances,213,Paediatric Gastrointestinal Surgery,162
+2324,Activity by Treatment Function,All Attendances,214,Paediatric Trauma and Orthopaedics,363791
+2324,Activity by Treatment Function,All Attendances,215,Paediatric Ear Nose and Throat,185853
+2324,Activity by Treatment Function,All Attendances,216,Paediatric Ophthalmology,380785
+2324,Activity by Treatment Function,All Attendances,217,Paediatric Maxillo-facial Surgery,24021
+2324,Activity by Treatment Function,All Attendances,218,Paediatric Neurosurgery,29242
+2324,Activity by Treatment Function,All Attendances,219,Paediatric Plastic Surgery,95133
+2324,Activity by Treatment Function,All Attendances,220,Paediatric Burns Care,39336
+2324,Activity by Treatment Function,All Attendances,221,Paediatric Cardiac Surgery,2019
+2324,Activity by Treatment Function,All Attendances,222,Paediatric Thoracic Surgery,299
+2324,Activity by Treatment Function,All Attendances,223,Paediatric Epilepsy,57300
+2324,Activity by Treatment Function,All Attendances,230,Paediatric Clinical Pharmacology Service,1
+2324,Activity by Treatment Function,All Attendances,240,Paediatric Palliative Medicine Service,2379
+2324,Activity by Treatment Function,All Attendances,241,Paediatric Pain Management,4548
+2324,Activity by Treatment Function,All Attendances,242,Paediatric Intensive Care,7817
+2324,Activity by Treatment Function,All Attendances,250,Paediatric Hepatology Service,146
+2324,Activity by Treatment Function,All Attendances,251,Paediatric Gastroenterology,114582
+2324,Activity by Treatment Function,All Attendances,252,Paediatric Endocrinology,101037
+2324,Activity by Treatment Function,All Attendances,253,Paediatric Clinical Haematology,88009
+2324,Activity by Treatment Function,All Attendances,254,Paediatric Audiological Medicine,86572
+2324,Activity by Treatment Function,All Attendances,255,Paediatric Clinical Immunology and Allergy,96171
+2324,Activity by Treatment Function,All Attendances,256,Paediatric Infectious Diseases,9943
+2324,Activity by Treatment Function,All Attendances,257,Paediatric Dermatology,158435
+2324,Activity by Treatment Function,All Attendances,258,Paediatric Respiratory Medicine,152299
+2324,Activity by Treatment Function,All Attendances,259,Paediatric Nephrology,64025
+2324,Activity by Treatment Function,All Attendances,260,Paediatric Medical Oncology,84225
+2324,Activity by Treatment Function,All Attendances,261,Paediatric Metabolic Disease,17054
+2324,Activity by Treatment Function,All Attendances,262,Paediatric Rheumatology,51279
+2324,Activity by Treatment Function,All Attendances,263,Paediatric Diabetic Medicine,132295
+2324,Activity by Treatment Function,All Attendances,264,Paediatric Cystic Fibrosis,18095
+2324,Activity by Treatment Function,All Attendances,270,Paediatric Emergency Medicine Service,13
+2324,Activity by Treatment Function,All Attendances,280,Paediatric Interventional Radiology,3149
+2324,Activity by Treatment Function,All Attendances,290,Community Paediatrics,468485
+2324,Activity by Treatment Function,All Attendances,291,Paediatric Neuro-disability,78971
+2324,Activity by Treatment Function,All Attendances,300,General Medicine,1190353
+2324,Activity by Treatment Function,All Attendances,301,Gastroenterology,2226878
+2324,Activity by Treatment Function,All Attendances,302,Endocrinology,820163
+2324,Activity by Treatment Function,All Attendances,303,Clinical Haematology,2240247
+2324,Activity by Treatment Function,All Attendances,304,Clinical Physiology,645181
+2324,Activity by Treatment Function,All Attendances,305,Clinical Pharmacology,10841
+2324,Activity by Treatment Function,All Attendances,306,Hepatology,449137
+2324,Activity by Treatment Function,All Attendances,307,Diabetic Medicine,1222226
+2324,Activity by Treatment Function,All Attendances,308,Bone & Marrow Transplantation,35580
+2324,Activity by Treatment Function,All Attendances,309,Haemophilia,47741
+2324,Activity by Treatment Function,All Attendances,310,Audiological Medicine,368756
+2324,Activity by Treatment Function,All Attendances,311,Clinical Genetics,128451
+2324,Activity by Treatment Function,All Attendances,313,Clinical Immunology & Allergy,47976
+2324,Activity by Treatment Function,All Attendances,314,Rehabilitation,307564
+2324,Activity by Treatment Function,All Attendances,315,Palliative Medicine,164103
+2324,Activity by Treatment Function,All Attendances,316,Clinical Immunology,35109
+2324,Activity by Treatment Function,All Attendances,317,Allergy,91758
+2324,Activity by Treatment Function,All Attendances,318,Intermediate Care,844984
+2324,Activity by Treatment Function,All Attendances,319,Respite Care,2
+2324,Activity by Treatment Function,All Attendances,320,Cardiology,4113936
+2324,Activity by Treatment Function,All Attendances,321,Paediatric Cardiology,195190
+2324,Activity by Treatment Function,All Attendances,322,Clinical Microbiology,28659
+2324,Activity by Treatment Function,All Attendances,323,Spinal Injuries,22919
+2324,Activity by Treatment Function,All Attendances,324,Anticoagulant Service,692618
+2324,Activity by Treatment Function,All Attendances,325,Sport & Exercise Medicine,12151
+2324,Activity by Treatment Function,All Attendances,326,Acute Internal Medicine Service,83414
+2324,Activity by Treatment Function,All Attendances,327,Cardiac Rehabilitation,159317
+2324,Activity by Treatment Function,All Attendances,328,Stroke Medicine,117541
+2324,Activity by Treatment Function,All Attendances,329,Transient Ischaemic Attack,107693
+2324,Activity by Treatment Function,All Attendances,330,Dermatology,3684101
+2324,Activity by Treatment Function,All Attendances,331,Congenital Heart Disease Service ,51254
+2324,Activity by Treatment Function,All Attendances,335,Inherited Metabolic Medicine Service,6166
+2324,Activity by Treatment Function,All Attendances,340,Respiratory Medicine (Thoracic Medicine),2309729
+2324,Activity by Treatment Function,All Attendances,341,Respiratory Physiology,646111
+2324,Activity by Treatment Function,All Attendances,342,Programmed Pulmonary Rehabilitation,54972
+2324,Activity by Treatment Function,All Attendances,343,Adult Cystic Fibrosis,21652
+2324,Activity by Treatment Function,All Attendances,344,Complex Specialised Rehabilitation Service,2407
+2324,Activity by Treatment Function,All Attendances,345,Specialist Rehabilitation Service,22568
+2324,Activity by Treatment Function,All Attendances,346,Local Specialist Rehabilitation Service,4170
+2324,Activity by Treatment Function,All Attendances,347,Sleep Medicine Service,72158
+2324,Activity by Treatment Function,All Attendances,348,Post-COVID-19 Syndrome Service,15510
+2324,Activity by Treatment Function,All Attendances,350,Infectious Diseases,224288
+2324,Activity by Treatment Function,All Attendances,352,Tropical Medicine,10018
+2324,Activity by Treatment Function,All Attendances,360,Genitourinary Medicine,136143
+2324,Activity by Treatment Function,All Attendances,361,Nephrology,1115042
+2324,Activity by Treatment Function,All Attendances,370,Medical Oncology,2421766
+2324,Activity by Treatment Function,All Attendances,371,Nuclear Medicine,40213
+2324,Activity by Treatment Function,All Attendances,400,Neurology,1625361
+2324,Activity by Treatment Function,All Attendances,401,Clinical Neuro-physiology,251918
+2324,Activity by Treatment Function,All Attendances,410,Rheumatology,2181738
+2324,Activity by Treatment Function,All Attendances,420,Paediatrics,1798557
+2324,Activity by Treatment Function,All Attendances,421,Paediatric Neurology,96239
+2324,Activity by Treatment Function,All Attendances,422,Neonatology,88103
+2324,Activity by Treatment Function,All Attendances,424,Well Babies,22920
+2324,Activity by Treatment Function,All Attendances,430,Geriatric Medicine,350105
+2324,Activity by Treatment Function,All Attendances,431,Orthogeriatric Medicine Service,178
+2324,Activity by Treatment Function,All Attendances,450,Dental Medicine Specialties,79655
+2324,Activity by Treatment Function,All Attendances,451,Special Care Dentistry Service,7310
+2324,Activity by Treatment Function,All Attendances,460,Medical Ophthalmology,138415
+2324,Activity by Treatment Function,All Attendances,461,Ophthalmic and Vision Science Service,9462
+2324,Activity by Treatment Function,All Attendances,499,"Non-UK Provider; specialty function not known, treatment mainly medical",1
+2324,Activity by Treatment Function,All Attendances,501,Obstetrics,3598171
+2324,Activity by Treatment Function,All Attendances,502,Gynaecology,3577454
+2324,Activity by Treatment Function,All Attendances,503,Gynaecological Oncology,258391
+2324,Activity by Treatment Function,All Attendances,505,Fetal Medicine Service,73603
+2324,Activity by Treatment Function,All Attendances,560,Midwife episode,3718559
+2324,Activity by Treatment Function,All Attendances,650,Physiotherapy,4883779
+2324,Activity by Treatment Function,All Attendances,651,Occupational Therapy,567231
+2324,Activity by Treatment Function,All Attendances,652,Speech and Language Therapy,238147
+2324,Activity by Treatment Function,All Attendances,653,Podiatry,512922
+2324,Activity by Treatment Function,All Attendances,654,Dietetics,702994
+2324,Activity by Treatment Function,All Attendances,655,Orthoptics,440975
+2324,Activity by Treatment Function,All Attendances,656,Clinical Psychology,176465
+2324,Activity by Treatment Function,All Attendances,657,Prosthetics,21962
+2324,Activity by Treatment Function,All Attendances,658,Orthotics,307558
+2324,Activity by Treatment Function,All Attendances,659,Dramatherapy,805
+2324,Activity by Treatment Function,All Attendances,660,Art Therapy,1
+2324,Activity by Treatment Function,All Attendances,661,Music Therapy,507
+2324,Activity by Treatment Function,All Attendances,662,Optometry,86867
+2324,Activity by Treatment Function,All Attendances,663,Podiatric Surgery,41026
+2324,Activity by Treatment Function,All Attendances,670,Urological Physiology Service,3642
+2324,Activity by Treatment Function,All Attendances,673,Vascular Physiology Service,4
+2324,Activity by Treatment Function,All Attendances,675,Cardiac Physiology Service,91657
+2324,Activity by Treatment Function,All Attendances,677,Gastrointestinal Physiology Service,13400
+2324,Activity by Treatment Function,All Attendances,700,Learning Disability (previously MH),70603
+2324,Activity by Treatment Function,All Attendances,710,Adult Mental Illness,1217263
+2324,Activity by Treatment Function,All Attendances,711,Child & Adolescent Psychiatry,671441
+2324,Activity by Treatment Function,All Attendances,712,Forensic Psychiatry,21025
+2324,Activity by Treatment Function,All Attendances,713,Psychotherapy,44147
+2324,Activity by Treatment Function,All Attendances,715,Old Age Psychiatry,179594
+2324,Activity by Treatment Function,All Attendances,720,Eating Disorders,27897
+2324,Activity by Treatment Function,All Attendances,721,Addiction Services,694
+2324,Activity by Treatment Function,All Attendances,722,Liaison Psychiatry,15493
+2324,Activity by Treatment Function,All Attendances,723,Psychiatric Intensive Care,24
+2324,Activity by Treatment Function,All Attendances,724,Perinatal Psychiatry,10335
+2324,Activity by Treatment Function,All Attendances,725,Mental Health Recovery and Rehabilitation Service,3810
+2324,Activity by Treatment Function,All Attendances,726,Mental Health Dual Diagnosis Service,1
+2324,Activity by Treatment Function,All Attendances,727,Dementia Assessment Service,7037
+2324,Activity by Treatment Function,All Attendances,730,Neuropsychiatry Service,4759
+2324,Activity by Treatment Function,All Attendances,800,Clinical Oncology (previously Radiotherapy),2918453
+2324,Activity by Treatment Function,All Attendances,811,Interventional Radiology,131979
+2324,Activity by Treatment Function,All Attendances,812,Diagnostic Imaging,6736717
+2324,Activity by Treatment Function,All Attendances,822,Chemical Pathology,79350
+2324,Activity by Treatment Function,All Attendances,834,Medical Virology,12807
+2324,Activity by Treatment Function,All Attendances,840,Audiology,1877443
+2324,Activity by Treatment Function,All Attendances,920,Diabetic Education Service,3147
+2324,Activity by Treatment Function,All Attendances,990,Retired,2242
+2324,Activity by Treatment Function,All Attendances,&,Not Known,547728
+2324,Activity by Treatment Function,All Attendances,All,All,104634817
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,100,General Surgery,34
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,101,Urology,57
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,103,Breast Surgery,4
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,104,Colorectal Surgery,17
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,106,Upper Gastrointestinal Surgery,2
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,107,Vascular Surgery,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,110,Trauma & Orthopaedics,107
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,120,"Ear, Nose & Throat (ENT)",75
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,130,Ophthalmology,1098
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,140,Oral Surgery,2
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,141,Restorative Dentistry,6
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,142,Paediatric Dentistry,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,143,Orthodontics,10
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,145,Oral and Maxillofacial Surgery Service,17
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,191,Pain Management,7
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,219,Paediatric Plastic Surgery,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,241,Paediatric Pain Management,11
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,252,Paediatric Endocrinology,3
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,262,Paediatric Rheumatology,58
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,290,Community Paediatrics,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,301,Gastroenterology,17
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,303,Clinical Haematology,32
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,320,Cardiology,183
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,321,Paediatric Cardiology,4
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,326,Acute Internal Medicine Service,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,328,Stroke Medicine,3
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,330,Dermatology,99
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,340,Respiratory Medicine (Thoracic Medicine),14
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,347,Sleep Medicine Service,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,400,Neurology,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,410,Rheumatology,32
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,420,Paediatrics,30
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,430,Geriatric Medicine,14
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,460,Medical Ophthalmology,4866
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,501,Obstetrics,134
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,502,Gynaecology,148
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,650,Physiotherapy,125
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,651,Occupational Therapy,195
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,652,Speech and Language Therapy,308
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,654,Dietetics,12
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,658,Orthotics,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,662,Optometry,4
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,675,Cardiac Physiology Service,26
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,710,Adult Mental Illness,1
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,800,Clinical Oncology (previously Radiotherapy),6
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,840,Audiology,17
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,&,Not Known,9
+2324,Activity by Treatment Function,Attended but first/subsequent/tele unknown,All,All,7795
+2324,Activity by Treatment Function,Attended first appointment,100,General Surgery,664147
+2324,Activity by Treatment Function,Attended first appointment,101,Urology,784172
+2324,Activity by Treatment Function,Attended first appointment,102,Transplantation Surgery,10193
+2324,Activity by Treatment Function,Attended first appointment,103,Breast Surgery,737279
+2324,Activity by Treatment Function,Attended first appointment,104,Colorectal Surgery,292594
+2324,Activity by Treatment Function,Attended first appointment,105,Hepatobiliary & Pancreatic Surgery,21513
+2324,Activity by Treatment Function,Attended first appointment,106,Upper Gastrointestinal Surgery,76176
+2324,Activity by Treatment Function,Attended first appointment,107,Vascular Surgery,247175
+2324,Activity by Treatment Function,Attended first appointment,108,Spinal Surgery Service,107323
+2324,Activity by Treatment Function,Attended first appointment,109,Bariatric Surgery Service,6768
+2324,Activity by Treatment Function,Attended first appointment,110,Trauma & Orthopaedics,1953142
+2324,Activity by Treatment Function,Attended first appointment,111,Orthopaedic Service,21033
+2324,Activity by Treatment Function,Attended first appointment,113,Endocrine Surgery Service,2829
+2324,Activity by Treatment Function,Attended first appointment,115,Trauma Surgery Service,12364
+2324,Activity by Treatment Function,Attended first appointment,120,"Ear, Nose & Throat (ENT)",1134819
+2324,Activity by Treatment Function,Attended first appointment,130,Ophthalmology,2184745
+2324,Activity by Treatment Function,Attended first appointment,140,Oral Surgery,328087
+2324,Activity by Treatment Function,Attended first appointment,141,Restorative Dentistry,52724
+2324,Activity by Treatment Function,Attended first appointment,142,Paediatric Dentistry,32187
+2324,Activity by Treatment Function,Attended first appointment,143,Orthodontics,53734
+2324,Activity by Treatment Function,Attended first appointment,144,Maxillo Facial Surgery,178614
+2324,Activity by Treatment Function,Attended first appointment,145,Oral and Maxillofacial Surgery Service,48720
+2324,Activity by Treatment Function,Attended first appointment,150,Neurosurgery,94641
+2324,Activity by Treatment Function,Attended first appointment,160,Plastic Surgery,310121
+2324,Activity by Treatment Function,Attended first appointment,161,Burns Care,14340
+2324,Activity by Treatment Function,Attended first appointment,170,Cardiothoracic Surgery,11912
+2324,Activity by Treatment Function,Attended first appointment,171,Paediatric Surgery,67161
+2324,Activity by Treatment Function,Attended first appointment,172,Cardiac Surgery,23266
+2324,Activity by Treatment Function,Attended first appointment,173,Thoracic Surgery,19876
+2324,Activity by Treatment Function,Attended first appointment,174,Cardiothoracic Transplantation,1093
+2324,Activity by Treatment Function,Attended first appointment,180,Accident & Emergency (A&E),129680
+2324,Activity by Treatment Function,Attended first appointment,190,Anaesthetics,281605
+2324,Activity by Treatment Function,Attended first appointment,191,Pain Management,143236
+2324,Activity by Treatment Function,Attended first appointment,192,Critical Care Medicine,3276
+2324,Activity by Treatment Function,Attended first appointment,211,Paediatric Urology,25754
+2324,Activity by Treatment Function,Attended first appointment,212,Paediatric Transplantation Surgery,9
+2324,Activity by Treatment Function,Attended first appointment,213,Paediatric Gastrointestinal Surgery,114
+2324,Activity by Treatment Function,Attended first appointment,214,Paediatric Trauma and Orthopaedics,120240
+2324,Activity by Treatment Function,Attended first appointment,215,Paediatric Ear Nose and Throat,86716
+2324,Activity by Treatment Function,Attended first appointment,216,Paediatric Ophthalmology,105688
+2324,Activity by Treatment Function,Attended first appointment,217,Paediatric Maxillo-facial Surgery,8788
+2324,Activity by Treatment Function,Attended first appointment,218,Paediatric Neurosurgery,6292
+2324,Activity by Treatment Function,Attended first appointment,219,Paediatric Plastic Surgery,32309
+2324,Activity by Treatment Function,Attended first appointment,220,Paediatric Burns Care,7774
+2324,Activity by Treatment Function,Attended first appointment,221,Paediatric Cardiac Surgery,809
+2324,Activity by Treatment Function,Attended first appointment,222,Paediatric Thoracic Surgery,131
+2324,Activity by Treatment Function,Attended first appointment,223,Paediatric Epilepsy,9068
+2324,Activity by Treatment Function,Attended first appointment,240,Paediatric Palliative Medicine Service,151
+2324,Activity by Treatment Function,Attended first appointment,241,Paediatric Pain Management,725
+2324,Activity by Treatment Function,Attended first appointment,242,Paediatric Intensive Care,281
+2324,Activity by Treatment Function,Attended first appointment,250,Paediatric Hepatology Service,1
+2324,Activity by Treatment Function,Attended first appointment,251,Paediatric Gastroenterology,24068
+2324,Activity by Treatment Function,Attended first appointment,252,Paediatric Endocrinology,18274
+2324,Activity by Treatment Function,Attended first appointment,253,Paediatric Clinical Haematology,11679
+2324,Activity by Treatment Function,Attended first appointment,254,Paediatric Audiological Medicine,37040
+2324,Activity by Treatment Function,Attended first appointment,255,Paediatric Clinical Immunology and Allergy,33932
+2324,Activity by Treatment Function,Attended first appointment,256,Paediatric Infectious Diseases,3881
+2324,Activity by Treatment Function,Attended first appointment,257,Paediatric Dermatology,52771
+2324,Activity by Treatment Function,Attended first appointment,258,Paediatric Respiratory Medicine,41540
+2324,Activity by Treatment Function,Attended first appointment,259,Paediatric Nephrology,7522
+2324,Activity by Treatment Function,Attended first appointment,260,Paediatric Medical Oncology,3872
+2324,Activity by Treatment Function,Attended first appointment,261,Paediatric Metabolic Disease,2341
+2324,Activity by Treatment Function,Attended first appointment,262,Paediatric Rheumatology,9752
+2324,Activity by Treatment Function,Attended first appointment,263,Paediatric Diabetic Medicine,4393
+2324,Activity by Treatment Function,Attended first appointment,264,Paediatric Cystic Fibrosis,324
+2324,Activity by Treatment Function,Attended first appointment,280,Paediatric Interventional Radiology,168
+2324,Activity by Treatment Function,Attended first appointment,290,Community Paediatrics,89624
+2324,Activity by Treatment Function,Attended first appointment,291,Paediatric Neuro-disability,19415
+2324,Activity by Treatment Function,Attended first appointment,300,General Medicine,428530
+2324,Activity by Treatment Function,Attended first appointment,301,Gastroenterology,445839
+2324,Activity by Treatment Function,Attended first appointment,302,Endocrinology,161872
+2324,Activity by Treatment Function,Attended first appointment,303,Clinical Haematology,176781
+2324,Activity by Treatment Function,Attended first appointment,304,Clinical Physiology,401583
+2324,Activity by Treatment Function,Attended first appointment,305,Clinical Pharmacology,2395
+2324,Activity by Treatment Function,Attended first appointment,306,Hepatology,94770
+2324,Activity by Treatment Function,Attended first appointment,307,Diabetic Medicine,157665
+2324,Activity by Treatment Function,Attended first appointment,308,Bone & Marrow Transplantation,1965
+2324,Activity by Treatment Function,Attended first appointment,309,Haemophilia,5513
+2324,Activity by Treatment Function,Attended first appointment,310,Audiological Medicine,122811
+2324,Activity by Treatment Function,Attended first appointment,311,Clinical Genetics,52842
+2324,Activity by Treatment Function,Attended first appointment,313,Clinical Immunology & Allergy,10839
+2324,Activity by Treatment Function,Attended first appointment,314,Rehabilitation,48754
+2324,Activity by Treatment Function,Attended first appointment,315,Palliative Medicine,20103
+2324,Activity by Treatment Function,Attended first appointment,316,Clinical Immunology,4170
+2324,Activity by Treatment Function,Attended first appointment,317,Allergy,33595
+2324,Activity by Treatment Function,Attended first appointment,318,Intermediate Care,97690
+2324,Activity by Treatment Function,Attended first appointment,320,Cardiology,1574466
+2324,Activity by Treatment Function,Attended first appointment,321,Paediatric Cardiology,58792
+2324,Activity by Treatment Function,Attended first appointment,322,Clinical Microbiology,14649
+2324,Activity by Treatment Function,Attended first appointment,323,Spinal Injuries,1946
+2324,Activity by Treatment Function,Attended first appointment,324,Anticoagulant Service,38127
+2324,Activity by Treatment Function,Attended first appointment,325,Sport & Exercise Medicine,5178
+2324,Activity by Treatment Function,Attended first appointment,326,Acute Internal Medicine Service,41634
+2324,Activity by Treatment Function,Attended first appointment,327,Cardiac Rehabilitation,13724
+2324,Activity by Treatment Function,Attended first appointment,328,Stroke Medicine,39456
+2324,Activity by Treatment Function,Attended first appointment,329,Transient Ischaemic Attack,67001
+2324,Activity by Treatment Function,Attended first appointment,330,Dermatology,1241458
+2324,Activity by Treatment Function,Attended first appointment,331,Congenital Heart Disease Service ,7838
+2324,Activity by Treatment Function,Attended first appointment,335,Inherited Metabolic Medicine Service,300
+2324,Activity by Treatment Function,Attended first appointment,340,Respiratory Medicine (Thoracic Medicine),623875
+2324,Activity by Treatment Function,Attended first appointment,341,Respiratory Physiology,231380
+2324,Activity by Treatment Function,Attended first appointment,342,Programmed Pulmonary Rehabilitation,4005
+2324,Activity by Treatment Function,Attended first appointment,343,Adult Cystic Fibrosis,469
+2324,Activity by Treatment Function,Attended first appointment,344,Complex Specialised Rehabilitation Service,434
+2324,Activity by Treatment Function,Attended first appointment,345,Specialist Rehabilitation Service,2190
+2324,Activity by Treatment Function,Attended first appointment,346,Local Specialist Rehabilitation Service,242
+2324,Activity by Treatment Function,Attended first appointment,347,Sleep Medicine Service,14149
+2324,Activity by Treatment Function,Attended first appointment,348,Post-COVID-19 Syndrome Service,2020
+2324,Activity by Treatment Function,Attended first appointment,350,Infectious Diseases,38202
+2324,Activity by Treatment Function,Attended first appointment,352,Tropical Medicine,3149
+2324,Activity by Treatment Function,Attended first appointment,360,Genitourinary Medicine,17548
+2324,Activity by Treatment Function,Attended first appointment,361,Nephrology,104221
+2324,Activity by Treatment Function,Attended first appointment,370,Medical Oncology,143129
+2324,Activity by Treatment Function,Attended first appointment,371,Nuclear Medicine,18348
+2324,Activity by Treatment Function,Attended first appointment,400,Neurology,401798
+2324,Activity by Treatment Function,Attended first appointment,401,Clinical Neuro-physiology,223154
+2324,Activity by Treatment Function,Attended first appointment,410,Rheumatology,338256
+2324,Activity by Treatment Function,Attended first appointment,420,Paediatrics,823113
+2324,Activity by Treatment Function,Attended first appointment,421,Paediatric Neurology,22875
+2324,Activity by Treatment Function,Attended first appointment,422,Neonatology,29832
+2324,Activity by Treatment Function,Attended first appointment,424,Well Babies,8423
+2324,Activity by Treatment Function,Attended first appointment,430,Geriatric Medicine,124830
+2324,Activity by Treatment Function,Attended first appointment,431,Orthogeriatric Medicine Service,105
+2324,Activity by Treatment Function,Attended first appointment,450,Dental Medicine Specialties,23583
+2324,Activity by Treatment Function,Attended first appointment,451,Special Care Dentistry Service,2245
+2324,Activity by Treatment Function,Attended first appointment,460,Medical Ophthalmology,23361
+2324,Activity by Treatment Function,Attended first appointment,461,Ophthalmic and Vision Science Service,1579
+2324,Activity by Treatment Function,Attended first appointment,499,"Non-UK Provider; specialty function not known, treatment mainly medical",1
+2324,Activity by Treatment Function,Attended first appointment,501,Obstetrics,848703
+2324,Activity by Treatment Function,Attended first appointment,502,Gynaecology,1580772
+2324,Activity by Treatment Function,Attended first appointment,503,Gynaecological Oncology,111682
+2324,Activity by Treatment Function,Attended first appointment,505,Fetal Medicine Service,19784
+2324,Activity by Treatment Function,Attended first appointment,560,Midwife episode,660803
+2324,Activity by Treatment Function,Attended first appointment,650,Physiotherapy,1225716
+2324,Activity by Treatment Function,Attended first appointment,651,Occupational Therapy,148511
+2324,Activity by Treatment Function,Attended first appointment,652,Speech and Language Therapy,37899
+2324,Activity by Treatment Function,Attended first appointment,653,Podiatry,74541
+2324,Activity by Treatment Function,Attended first appointment,654,Dietetics,96136
+2324,Activity by Treatment Function,Attended first appointment,655,Orthoptics,115419
+2324,Activity by Treatment Function,Attended first appointment,656,Clinical Psychology,25134
+2324,Activity by Treatment Function,Attended first appointment,657,Prosthetics,1827
+2324,Activity by Treatment Function,Attended first appointment,658,Orthotics,103469
+2324,Activity by Treatment Function,Attended first appointment,659,Dramatherapy,2
+2324,Activity by Treatment Function,Attended first appointment,661,Music Therapy,151
+2324,Activity by Treatment Function,Attended first appointment,662,Optometry,28257
+2324,Activity by Treatment Function,Attended first appointment,663,Podiatric Surgery,7923
+2324,Activity by Treatment Function,Attended first appointment,670,Urological Physiology Service,747
+2324,Activity by Treatment Function,Attended first appointment,673,Vascular Physiology Service,3
+2324,Activity by Treatment Function,Attended first appointment,675,Cardiac Physiology Service,43321
+2324,Activity by Treatment Function,Attended first appointment,677,Gastrointestinal Physiology Service,3343
+2324,Activity by Treatment Function,Attended first appointment,700,Learning Disability (previously MH),6310
+2324,Activity by Treatment Function,Attended first appointment,710,Adult Mental Illness,135157
+2324,Activity by Treatment Function,Attended first appointment,711,Child & Adolescent Psychiatry,65320
+2324,Activity by Treatment Function,Attended first appointment,712,Forensic Psychiatry,2064
+2324,Activity by Treatment Function,Attended first appointment,713,Psychotherapy,2637
+2324,Activity by Treatment Function,Attended first appointment,715,Old Age Psychiatry,34882
+2324,Activity by Treatment Function,Attended first appointment,720,Eating Disorders,2546
+2324,Activity by Treatment Function,Attended first appointment,721,Addiction Services,141
+2324,Activity by Treatment Function,Attended first appointment,722,Liaison Psychiatry,4104
+2324,Activity by Treatment Function,Attended first appointment,723,Psychiatric Intensive Care,1
+2324,Activity by Treatment Function,Attended first appointment,724,Perinatal Psychiatry,979
+2324,Activity by Treatment Function,Attended first appointment,725,Mental Health Recovery and Rehabilitation Service,48
+2324,Activity by Treatment Function,Attended first appointment,726,Mental Health Dual Diagnosis Service,1
+2324,Activity by Treatment Function,Attended first appointment,727,Dementia Assessment Service,1867
+2324,Activity by Treatment Function,Attended first appointment,730,Neuropsychiatry Service,527
+2324,Activity by Treatment Function,Attended first appointment,800,Clinical Oncology (previously Radiotherapy),285277
+2324,Activity by Treatment Function,Attended first appointment,811,Interventional Radiology,77414
+2324,Activity by Treatment Function,Attended first appointment,812,Diagnostic Imaging,3521258
+2324,Activity by Treatment Function,Attended first appointment,822,Chemical Pathology,19145
+2324,Activity by Treatment Function,Attended first appointment,834,Medical Virology,525
+2324,Activity by Treatment Function,Attended first appointment,840,Audiology,734043
+2324,Activity by Treatment Function,Attended first appointment,920,Diabetic Education Service,1312
+2324,Activity by Treatment Function,Attended first appointment,990,Retired,813
+2324,Activity by Treatment Function,Attended first appointment,&,Not Known,75913
+2324,Activity by Treatment Function,Attended first appointment,All,All,29521220
+2324,Activity by Treatment Function,Attended first tele consultation,100,General Surgery,143186
+2324,Activity by Treatment Function,Attended first tele consultation,101,Urology,192256
+2324,Activity by Treatment Function,Attended first tele consultation,102,Transplantation Surgery,598
+2324,Activity by Treatment Function,Attended first tele consultation,103,Breast Surgery,20000
+2324,Activity by Treatment Function,Attended first tele consultation,104,Colorectal Surgery,245593
+2324,Activity by Treatment Function,Attended first tele consultation,105,Hepatobiliary & Pancreatic Surgery,4946
+2324,Activity by Treatment Function,Attended first tele consultation,106,Upper Gastrointestinal Surgery,21403
+2324,Activity by Treatment Function,Attended first tele consultation,107,Vascular Surgery,18277
+2324,Activity by Treatment Function,Attended first tele consultation,108,Spinal Surgery Service,9764
+2324,Activity by Treatment Function,Attended first tele consultation,109,Bariatric Surgery Service,3122
+2324,Activity by Treatment Function,Attended first tele consultation,110,Trauma & Orthopaedics,547159
+2324,Activity by Treatment Function,Attended first tele consultation,111,Orthopaedic Service,367
+2324,Activity by Treatment Function,Attended first tele consultation,113,Endocrine Surgery Service,221
+2324,Activity by Treatment Function,Attended first tele consultation,115,Trauma Surgery Service,306
+2324,Activity by Treatment Function,Attended first tele consultation,120,"Ear, Nose & Throat (ENT)",60495
+2324,Activity by Treatment Function,Attended first tele consultation,130,Ophthalmology,160469
+2324,Activity by Treatment Function,Attended first tele consultation,140,Oral Surgery,8768
+2324,Activity by Treatment Function,Attended first tele consultation,141,Restorative Dentistry,5742
+2324,Activity by Treatment Function,Attended first tele consultation,142,Paediatric Dentistry,3624
+2324,Activity by Treatment Function,Attended first tele consultation,143,Orthodontics,478
+2324,Activity by Treatment Function,Attended first tele consultation,144,Maxillo Facial Surgery,6048
+2324,Activity by Treatment Function,Attended first tele consultation,145,Oral and Maxillofacial Surgery Service,1013
+2324,Activity by Treatment Function,Attended first tele consultation,150,Neurosurgery,37848
+2324,Activity by Treatment Function,Attended first tele consultation,160,Plastic Surgery,23546
+2324,Activity by Treatment Function,Attended first tele consultation,161,Burns Care,1065
+2324,Activity by Treatment Function,Attended first tele consultation,170,Cardiothoracic Surgery,1609
+2324,Activity by Treatment Function,Attended first tele consultation,171,Paediatric Surgery,9121
+2324,Activity by Treatment Function,Attended first tele consultation,172,Cardiac Surgery,2473
+2324,Activity by Treatment Function,Attended first tele consultation,173,Thoracic Surgery,6127
+2324,Activity by Treatment Function,Attended first tele consultation,174,Cardiothoracic Transplantation,82
+2324,Activity by Treatment Function,Attended first tele consultation,180,Accident & Emergency (A&E),4256
+2324,Activity by Treatment Function,Attended first tele consultation,190,Anaesthetics,98782
+2324,Activity by Treatment Function,Attended first tele consultation,191,Pain Management,58780
+2324,Activity by Treatment Function,Attended first tele consultation,192,Critical Care Medicine,3588
+2324,Activity by Treatment Function,Attended first tele consultation,211,Paediatric Urology,3038
+2324,Activity by Treatment Function,Attended first tele consultation,213,Paediatric Gastrointestinal Surgery,4
+2324,Activity by Treatment Function,Attended first tele consultation,214,Paediatric Trauma and Orthopaedics,32589
+2324,Activity by Treatment Function,Attended first tele consultation,215,Paediatric Ear Nose and Throat,3327
+2324,Activity by Treatment Function,Attended first tele consultation,216,Paediatric Ophthalmology,5338
+2324,Activity by Treatment Function,Attended first tele consultation,217,Paediatric Maxillo-facial Surgery,163
+2324,Activity by Treatment Function,Attended first tele consultation,218,Paediatric Neurosurgery,604
+2324,Activity by Treatment Function,Attended first tele consultation,219,Paediatric Plastic Surgery,4113
+2324,Activity by Treatment Function,Attended first tele consultation,220,Paediatric Burns Care,179
+2324,Activity by Treatment Function,Attended first tele consultation,221,Paediatric Cardiac Surgery,178
+2324,Activity by Treatment Function,Attended first tele consultation,222,Paediatric Thoracic Surgery,4
+2324,Activity by Treatment Function,Attended first tele consultation,223,Paediatric Epilepsy,983
+2324,Activity by Treatment Function,Attended first tele consultation,240,Paediatric Palliative Medicine Service,19
+2324,Activity by Treatment Function,Attended first tele consultation,241,Paediatric Pain Management,132
+2324,Activity by Treatment Function,Attended first tele consultation,242,Paediatric Intensive Care,21
+2324,Activity by Treatment Function,Attended first tele consultation,251,Paediatric Gastroenterology,3017
+2324,Activity by Treatment Function,Attended first tele consultation,252,Paediatric Endocrinology,1255
+2324,Activity by Treatment Function,Attended first tele consultation,253,Paediatric Clinical Haematology,1297
+2324,Activity by Treatment Function,Attended first tele consultation,254,Paediatric Audiological Medicine,416
+2324,Activity by Treatment Function,Attended first tele consultation,255,Paediatric Clinical Immunology and Allergy,5353
+2324,Activity by Treatment Function,Attended first tele consultation,256,Paediatric Infectious Diseases,203
+2324,Activity by Treatment Function,Attended first tele consultation,257,Paediatric Dermatology,3156
+2324,Activity by Treatment Function,Attended first tele consultation,258,Paediatric Respiratory Medicine,3024
+2324,Activity by Treatment Function,Attended first tele consultation,259,Paediatric Nephrology,849
+2324,Activity by Treatment Function,Attended first tele consultation,260,Paediatric Medical Oncology,945
+2324,Activity by Treatment Function,Attended first tele consultation,261,Paediatric Metabolic Disease,271
+2324,Activity by Treatment Function,Attended first tele consultation,262,Paediatric Rheumatology,545
+2324,Activity by Treatment Function,Attended first tele consultation,263,Paediatric Diabetic Medicine,532
+2324,Activity by Treatment Function,Attended first tele consultation,264,Paediatric Cystic Fibrosis,60
+2324,Activity by Treatment Function,Attended first tele consultation,280,Paediatric Interventional Radiology,1
+2324,Activity by Treatment Function,Attended first tele consultation,290,Community Paediatrics,22308
+2324,Activity by Treatment Function,Attended first tele consultation,291,Paediatric Neuro-disability,2530
+2324,Activity by Treatment Function,Attended first tele consultation,300,General Medicine,95727
+2324,Activity by Treatment Function,Attended first tele consultation,301,Gastroenterology,404818
+2324,Activity by Treatment Function,Attended first tele consultation,302,Endocrinology,59677
+2324,Activity by Treatment Function,Attended first tele consultation,303,Clinical Haematology,79489
+2324,Activity by Treatment Function,Attended first tele consultation,304,Clinical Physiology,887
+2324,Activity by Treatment Function,Attended first tele consultation,305,Clinical Pharmacology,1281
+2324,Activity by Treatment Function,Attended first tele consultation,306,Hepatology,23214
+2324,Activity by Treatment Function,Attended first tele consultation,307,Diabetic Medicine,50174
+2324,Activity by Treatment Function,Attended first tele consultation,308,Bone & Marrow Transplantation,162
+2324,Activity by Treatment Function,Attended first tele consultation,309,Haemophilia,1228
+2324,Activity by Treatment Function,Attended first tele consultation,310,Audiological Medicine,4810
+2324,Activity by Treatment Function,Attended first tele consultation,311,Clinical Genetics,28389
+2324,Activity by Treatment Function,Attended first tele consultation,313,Clinical Immunology & Allergy,4580
+2324,Activity by Treatment Function,Attended first tele consultation,314,Rehabilitation,15324
+2324,Activity by Treatment Function,Attended first tele consultation,315,Palliative Medicine,8365
+2324,Activity by Treatment Function,Attended first tele consultation,316,Clinical Immunology,2972
+2324,Activity by Treatment Function,Attended first tele consultation,317,Allergy,8272
+2324,Activity by Treatment Function,Attended first tele consultation,318,Intermediate Care,22108
+2324,Activity by Treatment Function,Attended first tele consultation,320,Cardiology,289713
+2324,Activity by Treatment Function,Attended first tele consultation,321,Paediatric Cardiology,1767
+2324,Activity by Treatment Function,Attended first tele consultation,322,Clinical Microbiology,79
+2324,Activity by Treatment Function,Attended first tele consultation,323,Spinal Injuries,763
+2324,Activity by Treatment Function,Attended first tele consultation,324,Anticoagulant Service,28228
+2324,Activity by Treatment Function,Attended first tele consultation,325,Sport & Exercise Medicine,45
+2324,Activity by Treatment Function,Attended first tele consultation,326,Acute Internal Medicine Service,15303
+2324,Activity by Treatment Function,Attended first tele consultation,327,Cardiac Rehabilitation,12827
+2324,Activity by Treatment Function,Attended first tele consultation,328,Stroke Medicine,19753
+2324,Activity by Treatment Function,Attended first tele consultation,329,Transient Ischaemic Attack,21472
+2324,Activity by Treatment Function,Attended first tele consultation,330,Dermatology,105345
+2324,Activity by Treatment Function,Attended first tele consultation,331,Congenital Heart Disease Service ,2652
+2324,Activity by Treatment Function,Attended first tele consultation,335,Inherited Metabolic Medicine Service,84
+2324,Activity by Treatment Function,Attended first tele consultation,340,Respiratory Medicine (Thoracic Medicine),191676
+2324,Activity by Treatment Function,Attended first tele consultation,341,Respiratory Physiology,27155
+2324,Activity by Treatment Function,Attended first tele consultation,342,Programmed Pulmonary Rehabilitation,3712
+2324,Activity by Treatment Function,Attended first tele consultation,343,Adult Cystic Fibrosis,395
+2324,Activity by Treatment Function,Attended first tele consultation,344,Complex Specialised Rehabilitation Service,122
+2324,Activity by Treatment Function,Attended first tele consultation,345,Specialist Rehabilitation Service,930
+2324,Activity by Treatment Function,Attended first tele consultation,346,Local Specialist Rehabilitation Service,9
+2324,Activity by Treatment Function,Attended first tele consultation,347,Sleep Medicine Service,5177
+2324,Activity by Treatment Function,Attended first tele consultation,348,Post-COVID-19 Syndrome Service,1335
+2324,Activity by Treatment Function,Attended first tele consultation,350,Infectious Diseases,11157
+2324,Activity by Treatment Function,Attended first tele consultation,352,Tropical Medicine,1597
+2324,Activity by Treatment Function,Attended first tele consultation,360,Genitourinary Medicine,1634
+2324,Activity by Treatment Function,Attended first tele consultation,361,Nephrology,18425
+2324,Activity by Treatment Function,Attended first tele consultation,370,Medical Oncology,37025
+2324,Activity by Treatment Function,Attended first tele consultation,371,Nuclear Medicine,602
+2324,Activity by Treatment Function,Attended first tele consultation,400,Neurology,111542
+2324,Activity by Treatment Function,Attended first tele consultation,401,Clinical Neuro-physiology,3095
+2324,Activity by Treatment Function,Attended first tele consultation,410,Rheumatology,51065
+2324,Activity by Treatment Function,Attended first tele consultation,420,Paediatrics,62605
+2324,Activity by Treatment Function,Attended first tele consultation,421,Paediatric Neurology,2100
+2324,Activity by Treatment Function,Attended first tele consultation,422,Neonatology,3823
+2324,Activity by Treatment Function,Attended first tele consultation,424,Well Babies,47
+2324,Activity by Treatment Function,Attended first tele consultation,430,Geriatric Medicine,28889
+2324,Activity by Treatment Function,Attended first tele consultation,431,Orthogeriatric Medicine Service,12
+2324,Activity by Treatment Function,Attended first tele consultation,450,Dental Medicine Specialties,678
+2324,Activity by Treatment Function,Attended first tele consultation,451,Special Care Dentistry Service,72
+2324,Activity by Treatment Function,Attended first tele consultation,460,Medical Ophthalmology,92
+2324,Activity by Treatment Function,Attended first tele consultation,461,Ophthalmic and Vision Science Service,2
+2324,Activity by Treatment Function,Attended first tele consultation,501,Obstetrics,66328
+2324,Activity by Treatment Function,Attended first tele consultation,502,Gynaecology,193873
+2324,Activity by Treatment Function,Attended first tele consultation,503,Gynaecological Oncology,7453
+2324,Activity by Treatment Function,Attended first tele consultation,505,Fetal Medicine Service,66
+2324,Activity by Treatment Function,Attended first tele consultation,560,Midwife episode,38871
+2324,Activity by Treatment Function,Attended first tele consultation,650,Physiotherapy,134909
+2324,Activity by Treatment Function,Attended first tele consultation,651,Occupational Therapy,25981
+2324,Activity by Treatment Function,Attended first tele consultation,652,Speech and Language Therapy,14248
+2324,Activity by Treatment Function,Attended first tele consultation,653,Podiatry,6671
+2324,Activity by Treatment Function,Attended first tele consultation,654,Dietetics,109751
+2324,Activity by Treatment Function,Attended first tele consultation,655,Orthoptics,5114
+2324,Activity by Treatment Function,Attended first tele consultation,656,Clinical Psychology,12072
+2324,Activity by Treatment Function,Attended first tele consultation,657,Prosthetics,803
+2324,Activity by Treatment Function,Attended first tele consultation,658,Orthotics,2242
+2324,Activity by Treatment Function,Attended first tele consultation,660,Art Therapy,1
+2324,Activity by Treatment Function,Attended first tele consultation,661,Music Therapy,6
+2324,Activity by Treatment Function,Attended first tele consultation,662,Optometry,348
+2324,Activity by Treatment Function,Attended first tele consultation,663,Podiatric Surgery,1555
+2324,Activity by Treatment Function,Attended first tele consultation,670,Urological Physiology Service,175
+2324,Activity by Treatment Function,Attended first tele consultation,675,Cardiac Physiology Service,180
+2324,Activity by Treatment Function,Attended first tele consultation,677,Gastrointestinal Physiology Service,297
+2324,Activity by Treatment Function,Attended first tele consultation,700,Learning Disability (previously MH),1896
+2324,Activity by Treatment Function,Attended first tele consultation,710,Adult Mental Illness,36328
+2324,Activity by Treatment Function,Attended first tele consultation,711,Child & Adolescent Psychiatry,25429
+2324,Activity by Treatment Function,Attended first tele consultation,712,Forensic Psychiatry,346
+2324,Activity by Treatment Function,Attended first tele consultation,713,Psychotherapy,2734
+2324,Activity by Treatment Function,Attended first tele consultation,715,Old Age Psychiatry,4716
+2324,Activity by Treatment Function,Attended first tele consultation,720,Eating Disorders,58
+2324,Activity by Treatment Function,Attended first tele consultation,721,Addiction Services,12
+2324,Activity by Treatment Function,Attended first tele consultation,722,Liaison Psychiatry,822
+2324,Activity by Treatment Function,Attended first tele consultation,723,Psychiatric Intensive Care,1
+2324,Activity by Treatment Function,Attended first tele consultation,724,Perinatal Psychiatry,138
+2324,Activity by Treatment Function,Attended first tele consultation,725,Mental Health Recovery and Rehabilitation Service,1
+2324,Activity by Treatment Function,Attended first tele consultation,727,Dementia Assessment Service,86
+2324,Activity by Treatment Function,Attended first tele consultation,730,Neuropsychiatry Service,818
+2324,Activity by Treatment Function,Attended first tele consultation,800,Clinical Oncology (previously Radiotherapy),49468
+2324,Activity by Treatment Function,Attended first tele consultation,811,Interventional Radiology,6219
+2324,Activity by Treatment Function,Attended first tele consultation,812,Diagnostic Imaging,5714
+2324,Activity by Treatment Function,Attended first tele consultation,822,Chemical Pathology,9869
+2324,Activity by Treatment Function,Attended first tele consultation,834,Medical Virology,539
+2324,Activity by Treatment Function,Attended first tele consultation,840,Audiology,24238
+2324,Activity by Treatment Function,Attended first tele consultation,920,Diabetic Education Service,57
+2324,Activity by Treatment Function,Attended first tele consultation,990,Retired,112
+2324,Activity by Treatment Function,Attended first tele consultation,&,Not Known,11094
+2324,Activity by Treatment Function,Attended first tele consultation,All,All,4473686
+2324,Activity by Treatment Function,Attended subsequent appointment,100,General Surgery,866834
+2324,Activity by Treatment Function,Attended subsequent appointment,101,Urology,1345613
+2324,Activity by Treatment Function,Attended subsequent appointment,102,Transplantation Surgery,80437
+2324,Activity by Treatment Function,Attended subsequent appointment,103,Breast Surgery,619587
+2324,Activity by Treatment Function,Attended subsequent appointment,104,Colorectal Surgery,336893
+2324,Activity by Treatment Function,Attended subsequent appointment,105,Hepatobiliary & Pancreatic Surgery,33724
+2324,Activity by Treatment Function,Attended subsequent appointment,106,Upper Gastrointestinal Surgery,76993
+2324,Activity by Treatment Function,Attended subsequent appointment,107,Vascular Surgery,236274
+2324,Activity by Treatment Function,Attended subsequent appointment,108,Spinal Surgery Service,152759
+2324,Activity by Treatment Function,Attended subsequent appointment,109,Bariatric Surgery Service,14722
+2324,Activity by Treatment Function,Attended subsequent appointment,110,Trauma & Orthopaedics,3999982
+2324,Activity by Treatment Function,Attended subsequent appointment,111,Orthopaedic Service,40038
+2324,Activity by Treatment Function,Attended subsequent appointment,113,Endocrine Surgery Service,3101
+2324,Activity by Treatment Function,Attended subsequent appointment,115,Trauma Surgery Service,17728
+2324,Activity by Treatment Function,Attended subsequent appointment,120,"Ear, Nose & Throat (ENT)",1263679
+2324,Activity by Treatment Function,Attended subsequent appointment,130,Ophthalmology,6106132
+2324,Activity by Treatment Function,Attended subsequent appointment,140,Oral Surgery,355528
+2324,Activity by Treatment Function,Attended subsequent appointment,141,Restorative Dentistry,278280
+2324,Activity by Treatment Function,Attended subsequent appointment,142,Paediatric Dentistry,65545
+2324,Activity by Treatment Function,Attended subsequent appointment,143,Orthodontics,567905
+2324,Activity by Treatment Function,Attended subsequent appointment,144,Maxillo Facial Surgery,259375
+2324,Activity by Treatment Function,Attended subsequent appointment,145,Oral and Maxillofacial Surgery Service,63643
+2324,Activity by Treatment Function,Attended subsequent appointment,150,Neurosurgery,148646
+2324,Activity by Treatment Function,Attended subsequent appointment,160,Plastic Surgery,629573
+2324,Activity by Treatment Function,Attended subsequent appointment,161,Burns Care,38139
+2324,Activity by Treatment Function,Attended subsequent appointment,170,Cardiothoracic Surgery,17767
+2324,Activity by Treatment Function,Attended subsequent appointment,171,Paediatric Surgery,52164
+2324,Activity by Treatment Function,Attended subsequent appointment,172,Cardiac Surgery,38374
+2324,Activity by Treatment Function,Attended subsequent appointment,173,Thoracic Surgery,38138
+2324,Activity by Treatment Function,Attended subsequent appointment,174,Cardiothoracic Transplantation,12373
+2324,Activity by Treatment Function,Attended subsequent appointment,180,Accident & Emergency (A&E),29520
+2324,Activity by Treatment Function,Attended subsequent appointment,190,Anaesthetics,506714
+2324,Activity by Treatment Function,Attended subsequent appointment,191,Pain Management,262434
+2324,Activity by Treatment Function,Attended subsequent appointment,192,Critical Care Medicine,4251
+2324,Activity by Treatment Function,Attended subsequent appointment,211,Paediatric Urology,33311
+2324,Activity by Treatment Function,Attended subsequent appointment,212,Paediatric Transplantation Surgery,919
+2324,Activity by Treatment Function,Attended subsequent appointment,213,Paediatric Gastrointestinal Surgery,40
+2324,Activity by Treatment Function,Attended subsequent appointment,214,Paediatric Trauma and Orthopaedics,193873
+2324,Activity by Treatment Function,Attended subsequent appointment,215,Paediatric Ear Nose and Throat,77093
+2324,Activity by Treatment Function,Attended subsequent appointment,216,Paediatric Ophthalmology,260977
+2324,Activity by Treatment Function,Attended subsequent appointment,217,Paediatric Maxillo-facial Surgery,13101
+2324,Activity by Treatment Function,Attended subsequent appointment,218,Paediatric Neurosurgery,17391
+2324,Activity by Treatment Function,Attended subsequent appointment,219,Paediatric Plastic Surgery,50001
+2324,Activity by Treatment Function,Attended subsequent appointment,220,Paediatric Burns Care,28833
+2324,Activity by Treatment Function,Attended subsequent appointment,221,Paediatric Cardiac Surgery,959
+2324,Activity by Treatment Function,Attended subsequent appointment,222,Paediatric Thoracic Surgery,139
+2324,Activity by Treatment Function,Attended subsequent appointment,223,Paediatric Epilepsy,28813
+2324,Activity by Treatment Function,Attended subsequent appointment,230,Paediatric Clinical Pharmacology Service,1
+2324,Activity by Treatment Function,Attended subsequent appointment,240,Paediatric Palliative Medicine Service,1448
+2324,Activity by Treatment Function,Attended subsequent appointment,241,Paediatric Pain Management,1948
+2324,Activity by Treatment Function,Attended subsequent appointment,242,Paediatric Intensive Care,2477
+2324,Activity by Treatment Function,Attended subsequent appointment,250,Paediatric Hepatology Service,145
+2324,Activity by Treatment Function,Attended subsequent appointment,251,Paediatric Gastroenterology,56761
+2324,Activity by Treatment Function,Attended subsequent appointment,252,Paediatric Endocrinology,67256
+2324,Activity by Treatment Function,Attended subsequent appointment,253,Paediatric Clinical Haematology,57419
+2324,Activity by Treatment Function,Attended subsequent appointment,254,Paediatric Audiological Medicine,46323
+2324,Activity by Treatment Function,Attended subsequent appointment,255,Paediatric Clinical Immunology and Allergy,41328
+2324,Activity by Treatment Function,Attended subsequent appointment,256,Paediatric Infectious Diseases,4574
+2324,Activity by Treatment Function,Attended subsequent appointment,257,Paediatric Dermatology,93250
+2324,Activity by Treatment Function,Attended subsequent appointment,258,Paediatric Respiratory Medicine,83579
+2324,Activity by Treatment Function,Attended subsequent appointment,259,Paediatric Nephrology,45065
+2324,Activity by Treatment Function,Attended subsequent appointment,260,Paediatric Medical Oncology,60948
+2324,Activity by Treatment Function,Attended subsequent appointment,261,Paediatric Metabolic Disease,9288
+2324,Activity by Treatment Function,Attended subsequent appointment,262,Paediatric Rheumatology,34103
+2324,Activity by Treatment Function,Attended subsequent appointment,263,Paediatric Diabetic Medicine,100468
+2324,Activity by Treatment Function,Attended subsequent appointment,264,Paediatric Cystic Fibrosis,14415
+2324,Activity by Treatment Function,Attended subsequent appointment,270,Paediatric Emergency Medicine Service,13
+2324,Activity by Treatment Function,Attended subsequent appointment,280,Paediatric Interventional Radiology,855
+2324,Activity by Treatment Function,Attended subsequent appointment,290,Community Paediatrics,257463
+2324,Activity by Treatment Function,Attended subsequent appointment,291,Paediatric Neuro-disability,43944
+2324,Activity by Treatment Function,Attended subsequent appointment,300,General Medicine,498753
+2324,Activity by Treatment Function,Attended subsequent appointment,301,Gastroenterology,514121
+2324,Activity by Treatment Function,Attended subsequent appointment,302,Endocrinology,300180
+2324,Activity by Treatment Function,Attended subsequent appointment,303,Clinical Haematology,1072379
+2324,Activity by Treatment Function,Attended subsequent appointment,304,Clinical Physiology,210270
+2324,Activity by Treatment Function,Attended subsequent appointment,305,Clinical Pharmacology,3846
+2324,Activity by Treatment Function,Attended subsequent appointment,306,Hepatology,222297
+2324,Activity by Treatment Function,Attended subsequent appointment,307,Diabetic Medicine,642699
+2324,Activity by Treatment Function,Attended subsequent appointment,308,Bone & Marrow Transplantation,26357
+2324,Activity by Treatment Function,Attended subsequent appointment,309,Haemophilia,22642
+2324,Activity by Treatment Function,Attended subsequent appointment,310,Audiological Medicine,214703
+2324,Activity by Treatment Function,Attended subsequent appointment,311,Clinical Genetics,28171
+2324,Activity by Treatment Function,Attended subsequent appointment,313,Clinical Immunology & Allergy,16937
+2324,Activity by Treatment Function,Attended subsequent appointment,314,Rehabilitation,199857
+2324,Activity by Treatment Function,Attended subsequent appointment,315,Palliative Medicine,66150
+2324,Activity by Treatment Function,Attended subsequent appointment,316,Clinical Immunology,13044
+2324,Activity by Treatment Function,Attended subsequent appointment,317,Allergy,34039
+2324,Activity by Treatment Function,Attended subsequent appointment,318,Intermediate Care,688856
+2324,Activity by Treatment Function,Attended subsequent appointment,319,Respite Care,2
+2324,Activity by Treatment Function,Attended subsequent appointment,320,Cardiology,1553735
+2324,Activity by Treatment Function,Attended subsequent appointment,321,Paediatric Cardiology,113707
+2324,Activity by Treatment Function,Attended subsequent appointment,322,Clinical Microbiology,13420
+2324,Activity by Treatment Function,Attended subsequent appointment,323,Spinal Injuries,10638
+2324,Activity by Treatment Function,Attended subsequent appointment,324,Anticoagulant Service,513890
+2324,Activity by Treatment Function,Attended subsequent appointment,325,Sport & Exercise Medicine,5786
+2324,Activity by Treatment Function,Attended subsequent appointment,326,Acute Internal Medicine Service,19922
+2324,Activity by Treatment Function,Attended subsequent appointment,327,Cardiac Rehabilitation,94979
+2324,Activity by Treatment Function,Attended subsequent appointment,328,Stroke Medicine,27661
+2324,Activity by Treatment Function,Attended subsequent appointment,329,Transient Ischaemic Attack,6325
+2324,Activity by Treatment Function,Attended subsequent appointment,330,Dermatology,2103081
+2324,Activity by Treatment Function,Attended subsequent appointment,331,Congenital Heart Disease Service ,31842
+2324,Activity by Treatment Function,Attended subsequent appointment,335,Inherited Metabolic Medicine Service,1473
+2324,Activity by Treatment Function,Attended subsequent appointment,340,Respiratory Medicine (Thoracic Medicine),966741
+2324,Activity by Treatment Function,Attended subsequent appointment,341,Respiratory Physiology,252760
+2324,Activity by Treatment Function,Attended subsequent appointment,342,Programmed Pulmonary Rehabilitation,39305
+2324,Activity by Treatment Function,Attended subsequent appointment,343,Adult Cystic Fibrosis,14210
+2324,Activity by Treatment Function,Attended subsequent appointment,344,Complex Specialised Rehabilitation Service,1258
+2324,Activity by Treatment Function,Attended subsequent appointment,345,Specialist Rehabilitation Service,14321
+2324,Activity by Treatment Function,Attended subsequent appointment,346,Local Specialist Rehabilitation Service,1735
+2324,Activity by Treatment Function,Attended subsequent appointment,347,Sleep Medicine Service,26205
+2324,Activity by Treatment Function,Attended subsequent appointment,348,Post-COVID-19 Syndrome Service,3557
+2324,Activity by Treatment Function,Attended subsequent appointment,350,Infectious Diseases,135187
+2324,Activity by Treatment Function,Attended subsequent appointment,352,Tropical Medicine,3387
+2324,Activity by Treatment Function,Attended subsequent appointment,360,Genitourinary Medicine,99268
+2324,Activity by Treatment Function,Attended subsequent appointment,361,Nephrology,778852
+2324,Activity by Treatment Function,Attended subsequent appointment,370,Medical Oncology,1464262
+2324,Activity by Treatment Function,Attended subsequent appointment,371,Nuclear Medicine,19760
+2324,Activity by Treatment Function,Attended subsequent appointment,400,Neurology,678208
+2324,Activity by Treatment Function,Attended subsequent appointment,401,Clinical Neuro-physiology,25008
+2324,Activity by Treatment Function,Attended subsequent appointment,410,Rheumatology,1171516
+2324,Activity by Treatment Function,Attended subsequent appointment,420,Paediatrics,731922
+2324,Activity by Treatment Function,Attended subsequent appointment,421,Paediatric Neurology,51151
+2324,Activity by Treatment Function,Attended subsequent appointment,422,Neonatology,46787
+2324,Activity by Treatment Function,Attended subsequent appointment,424,Well Babies,14086
+2324,Activity by Treatment Function,Attended subsequent appointment,430,Geriatric Medicine,137596
+2324,Activity by Treatment Function,Attended subsequent appointment,431,Orthogeriatric Medicine Service,51
+2324,Activity by Treatment Function,Attended subsequent appointment,450,Dental Medicine Specialties,46139
+2324,Activity by Treatment Function,Attended subsequent appointment,451,Special Care Dentistry Service,4403
+2324,Activity by Treatment Function,Attended subsequent appointment,460,Medical Ophthalmology,106646
+2324,Activity by Treatment Function,Attended subsequent appointment,461,Ophthalmic and Vision Science Service,7876
+2324,Activity by Treatment Function,Attended subsequent appointment,501,Obstetrics,2510249
+2324,Activity by Treatment Function,Attended subsequent appointment,502,Gynaecology,1453892
+2324,Activity by Treatment Function,Attended subsequent appointment,503,Gynaecological Oncology,102087
+2324,Activity by Treatment Function,Attended subsequent appointment,505,Fetal Medicine Service,53621
+2324,Activity by Treatment Function,Attended subsequent appointment,560,Midwife episode,2883374
+2324,Activity by Treatment Function,Attended subsequent appointment,650,Physiotherapy,3290606
+2324,Activity by Treatment Function,Attended subsequent appointment,651,Occupational Therapy,338058
+2324,Activity by Treatment Function,Attended subsequent appointment,652,Speech and Language Therapy,138679
+2324,Activity by Treatment Function,Attended subsequent appointment,653,Podiatry,422426
+2324,Activity by Treatment Function,Attended subsequent appointment,654,Dietetics,235761
+2324,Activity by Treatment Function,Attended subsequent appointment,655,Orthoptics,307251
+2324,Activity by Treatment Function,Attended subsequent appointment,656,Clinical Psychology,91007
+2324,Activity by Treatment Function,Attended subsequent appointment,657,Prosthetics,18139
+2324,Activity by Treatment Function,Attended subsequent appointment,658,Orthotics,189659
+2324,Activity by Treatment Function,Attended subsequent appointment,659,Dramatherapy,802
+2324,Activity by Treatment Function,Attended subsequent appointment,661,Music Therapy,345
+2324,Activity by Treatment Function,Attended subsequent appointment,662,Optometry,55244
+2324,Activity by Treatment Function,Attended subsequent appointment,663,Podiatric Surgery,28145
+2324,Activity by Treatment Function,Attended subsequent appointment,670,Urological Physiology Service,1299
+2324,Activity by Treatment Function,Attended subsequent appointment,673,Vascular Physiology Service,1
+2324,Activity by Treatment Function,Attended subsequent appointment,675,Cardiac Physiology Service,40515
+2324,Activity by Treatment Function,Attended subsequent appointment,677,Gastrointestinal Physiology Service,2937
+2324,Activity by Treatment Function,Attended subsequent appointment,700,Learning Disability (previously MH),49876
+2324,Activity by Treatment Function,Attended subsequent appointment,710,Adult Mental Illness,806250
+2324,Activity by Treatment Function,Attended subsequent appointment,711,Child & Adolescent Psychiatry,429830
+2324,Activity by Treatment Function,Attended subsequent appointment,712,Forensic Psychiatry,16614
+2324,Activity by Treatment Function,Attended subsequent appointment,713,Psychotherapy,31296
+2324,Activity by Treatment Function,Attended subsequent appointment,715,Old Age Psychiatry,103591
+2324,Activity by Treatment Function,Attended subsequent appointment,720,Eating Disorders,21579
+2324,Activity by Treatment Function,Attended subsequent appointment,721,Addiction Services,504
+2324,Activity by Treatment Function,Attended subsequent appointment,722,Liaison Psychiatry,9038
+2324,Activity by Treatment Function,Attended subsequent appointment,723,Psychiatric Intensive Care,19
+2324,Activity by Treatment Function,Attended subsequent appointment,724,Perinatal Psychiatry,7400
+2324,Activity by Treatment Function,Attended subsequent appointment,725,Mental Health Recovery and Rehabilitation Service,3174
+2324,Activity by Treatment Function,Attended subsequent appointment,727,Dementia Assessment Service,4622
+2324,Activity by Treatment Function,Attended subsequent appointment,730,Neuropsychiatry Service,1597
+2324,Activity by Treatment Function,Attended subsequent appointment,800,Clinical Oncology (previously Radiotherapy),1893650
+2324,Activity by Treatment Function,Attended subsequent appointment,811,Interventional Radiology,41625
+2324,Activity by Treatment Function,Attended subsequent appointment,812,Diagnostic Imaging,3197989
+2324,Activity by Treatment Function,Attended subsequent appointment,822,Chemical Pathology,18328
+2324,Activity by Treatment Function,Attended subsequent appointment,834,Medical Virology,11215
+2324,Activity by Treatment Function,Attended subsequent appointment,840,Audiology,901405
+2324,Activity by Treatment Function,Attended subsequent appointment,920,Diabetic Education Service,1586
+2324,Activity by Treatment Function,Attended subsequent appointment,990,Retired,1097
+2324,Activity by Treatment Function,Attended subsequent appointment,&,Not Known,429705
+2324,Activity by Treatment Function,Attended subsequent appointment,All,All,56551432
+2324,Activity by Treatment Function,Attended subsequent tele consultation,100,General Surgery,289012
+2324,Activity by Treatment Function,Attended subsequent tele consultation,101,Urology,769375
+2324,Activity by Treatment Function,Attended subsequent tele consultation,102,Transplantation Surgery,12884
+2324,Activity by Treatment Function,Attended subsequent tele consultation,103,Breast Surgery,190092
+2324,Activity by Treatment Function,Attended subsequent tele consultation,104,Colorectal Surgery,260264
+2324,Activity by Treatment Function,Attended subsequent tele consultation,105,Hepatobiliary & Pancreatic Surgery,33343
+2324,Activity by Treatment Function,Attended subsequent tele consultation,106,Upper Gastrointestinal Surgery,36691
+2324,Activity by Treatment Function,Attended subsequent tele consultation,107,Vascular Surgery,51931
+2324,Activity by Treatment Function,Attended subsequent tele consultation,108,Spinal Surgery Service,53436
+2324,Activity by Treatment Function,Attended subsequent tele consultation,109,Bariatric Surgery Service,10978
+2324,Activity by Treatment Function,Attended subsequent tele consultation,110,Trauma & Orthopaedics,462626
+2324,Activity by Treatment Function,Attended subsequent tele consultation,111,Orthopaedic Service,4461
+2324,Activity by Treatment Function,Attended subsequent tele consultation,113,Endocrine Surgery Service,2668
+2324,Activity by Treatment Function,Attended subsequent tele consultation,115,Trauma Surgery Service,527
+2324,Activity by Treatment Function,Attended subsequent tele consultation,120,"Ear, Nose & Throat (ENT)",204063
+2324,Activity by Treatment Function,Attended subsequent tele consultation,130,Ophthalmology,405828
+2324,Activity by Treatment Function,Attended subsequent tele consultation,140,Oral Surgery,40441
+2324,Activity by Treatment Function,Attended subsequent tele consultation,141,Restorative Dentistry,5613
+2324,Activity by Treatment Function,Attended subsequent tele consultation,142,Paediatric Dentistry,4600
+2324,Activity by Treatment Function,Attended subsequent tele consultation,143,Orthodontics,4664
+2324,Activity by Treatment Function,Attended subsequent tele consultation,144,Maxillo Facial Surgery,32863
+2324,Activity by Treatment Function,Attended subsequent tele consultation,145,Oral and Maxillofacial Surgery Service,7657
+2324,Activity by Treatment Function,Attended subsequent tele consultation,150,Neurosurgery,107628
+2324,Activity by Treatment Function,Attended subsequent tele consultation,160,Plastic Surgery,61862
+2324,Activity by Treatment Function,Attended subsequent tele consultation,161,Burns Care,4242
+2324,Activity by Treatment Function,Attended subsequent tele consultation,170,Cardiothoracic Surgery,8514
+2324,Activity by Treatment Function,Attended subsequent tele consultation,171,Paediatric Surgery,29421
+2324,Activity by Treatment Function,Attended subsequent tele consultation,172,Cardiac Surgery,17593
+2324,Activity by Treatment Function,Attended subsequent tele consultation,173,Thoracic Surgery,18587
+2324,Activity by Treatment Function,Attended subsequent tele consultation,174,Cardiothoracic Transplantation,1702
+2324,Activity by Treatment Function,Attended subsequent tele consultation,180,Accident & Emergency (A&E),4872
+2324,Activity by Treatment Function,Attended subsequent tele consultation,190,Anaesthetics,139797
+2324,Activity by Treatment Function,Attended subsequent tele consultation,191,Pain Management,239218
+2324,Activity by Treatment Function,Attended subsequent tele consultation,192,Critical Care Medicine,3772
+2324,Activity by Treatment Function,Attended subsequent tele consultation,211,Paediatric Urology,18303
+2324,Activity by Treatment Function,Attended subsequent tele consultation,213,Paediatric Gastrointestinal Surgery,4
+2324,Activity by Treatment Function,Attended subsequent tele consultation,214,Paediatric Trauma and Orthopaedics,17089
+2324,Activity by Treatment Function,Attended subsequent tele consultation,215,Paediatric Ear Nose and Throat,18717
+2324,Activity by Treatment Function,Attended subsequent tele consultation,216,Paediatric Ophthalmology,8782
+2324,Activity by Treatment Function,Attended subsequent tele consultation,217,Paediatric Maxillo-facial Surgery,1969
+2324,Activity by Treatment Function,Attended subsequent tele consultation,218,Paediatric Neurosurgery,4955
+2324,Activity by Treatment Function,Attended subsequent tele consultation,219,Paediatric Plastic Surgery,8709
+2324,Activity by Treatment Function,Attended subsequent tele consultation,220,Paediatric Burns Care,2550
+2324,Activity by Treatment Function,Attended subsequent tele consultation,221,Paediatric Cardiac Surgery,73
+2324,Activity by Treatment Function,Attended subsequent tele consultation,222,Paediatric Thoracic Surgery,25
+2324,Activity by Treatment Function,Attended subsequent tele consultation,223,Paediatric Epilepsy,18436
+2324,Activity by Treatment Function,Attended subsequent tele consultation,240,Paediatric Palliative Medicine Service,761
+2324,Activity by Treatment Function,Attended subsequent tele consultation,241,Paediatric Pain Management,1732
+2324,Activity by Treatment Function,Attended subsequent tele consultation,242,Paediatric Intensive Care,5038
+2324,Activity by Treatment Function,Attended subsequent tele consultation,251,Paediatric Gastroenterology,30736
+2324,Activity by Treatment Function,Attended subsequent tele consultation,252,Paediatric Endocrinology,14249
+2324,Activity by Treatment Function,Attended subsequent tele consultation,253,Paediatric Clinical Haematology,17614
+2324,Activity by Treatment Function,Attended subsequent tele consultation,254,Paediatric Audiological Medicine,2793
+2324,Activity by Treatment Function,Attended subsequent tele consultation,255,Paediatric Clinical Immunology and Allergy,15558
+2324,Activity by Treatment Function,Attended subsequent tele consultation,256,Paediatric Infectious Diseases,1285
+2324,Activity by Treatment Function,Attended subsequent tele consultation,257,Paediatric Dermatology,9258
+2324,Activity by Treatment Function,Attended subsequent tele consultation,258,Paediatric Respiratory Medicine,24156
+2324,Activity by Treatment Function,Attended subsequent tele consultation,259,Paediatric Nephrology,10589
+2324,Activity by Treatment Function,Attended subsequent tele consultation,260,Paediatric Medical Oncology,18460
+2324,Activity by Treatment Function,Attended subsequent tele consultation,261,Paediatric Metabolic Disease,5154
+2324,Activity by Treatment Function,Attended subsequent tele consultation,262,Paediatric Rheumatology,6821
+2324,Activity by Treatment Function,Attended subsequent tele consultation,263,Paediatric Diabetic Medicine,26902
+2324,Activity by Treatment Function,Attended subsequent tele consultation,264,Paediatric Cystic Fibrosis,3296
+2324,Activity by Treatment Function,Attended subsequent tele consultation,280,Paediatric Interventional Radiology,2125
+2324,Activity by Treatment Function,Attended subsequent tele consultation,290,Community Paediatrics,99089
+2324,Activity by Treatment Function,Attended subsequent tele consultation,291,Paediatric Neuro-disability,13082
+2324,Activity by Treatment Function,Attended subsequent tele consultation,300,General Medicine,167343
+2324,Activity by Treatment Function,Attended subsequent tele consultation,301,Gastroenterology,862083
+2324,Activity by Treatment Function,Attended subsequent tele consultation,302,Endocrinology,298434
+2324,Activity by Treatment Function,Attended subsequent tele consultation,303,Clinical Haematology,911566
+2324,Activity by Treatment Function,Attended subsequent tele consultation,304,Clinical Physiology,32441
+2324,Activity by Treatment Function,Attended subsequent tele consultation,305,Clinical Pharmacology,3319
+2324,Activity by Treatment Function,Attended subsequent tele consultation,306,Hepatology,108856
+2324,Activity by Treatment Function,Attended subsequent tele consultation,307,Diabetic Medicine,371688
+2324,Activity by Treatment Function,Attended subsequent tele consultation,308,Bone & Marrow Transplantation,7096
+2324,Activity by Treatment Function,Attended subsequent tele consultation,309,Haemophilia,18358
+2324,Activity by Treatment Function,Attended subsequent tele consultation,310,Audiological Medicine,26432
+2324,Activity by Treatment Function,Attended subsequent tele consultation,311,Clinical Genetics,19049
+2324,Activity by Treatment Function,Attended subsequent tele consultation,313,Clinical Immunology & Allergy,15620
+2324,Activity by Treatment Function,Attended subsequent tele consultation,314,Rehabilitation,43629
+2324,Activity by Treatment Function,Attended subsequent tele consultation,315,Palliative Medicine,69485
+2324,Activity by Treatment Function,Attended subsequent tele consultation,316,Clinical Immunology,14923
+2324,Activity by Treatment Function,Attended subsequent tele consultation,317,Allergy,15852
+2324,Activity by Treatment Function,Attended subsequent tele consultation,318,Intermediate Care,36330
+2324,Activity by Treatment Function,Attended subsequent tele consultation,320,Cardiology,695839
+2324,Activity by Treatment Function,Attended subsequent tele consultation,321,Paediatric Cardiology,20920
+2324,Activity by Treatment Function,Attended subsequent tele consultation,322,Clinical Microbiology,511
+2324,Activity by Treatment Function,Attended subsequent tele consultation,323,Spinal Injuries,9572
+2324,Activity by Treatment Function,Attended subsequent tele consultation,324,Anticoagulant Service,112373
+2324,Activity by Treatment Function,Attended subsequent tele consultation,325,Sport & Exercise Medicine,1142
+2324,Activity by Treatment Function,Attended subsequent tele consultation,326,Acute Internal Medicine Service,6554
+2324,Activity by Treatment Function,Attended subsequent tele consultation,327,Cardiac Rehabilitation,37787
+2324,Activity by Treatment Function,Attended subsequent tele consultation,328,Stroke Medicine,30668
+2324,Activity by Treatment Function,Attended subsequent tele consultation,329,Transient Ischaemic Attack,12895
+2324,Activity by Treatment Function,Attended subsequent tele consultation,330,Dermatology,234118
+2324,Activity by Treatment Function,Attended subsequent tele consultation,331,Congenital Heart Disease Service ,8922
+2324,Activity by Treatment Function,Attended subsequent tele consultation,335,Inherited Metabolic Medicine Service,4309
+2324,Activity by Treatment Function,Attended subsequent tele consultation,340,Respiratory Medicine (Thoracic Medicine),527423
+2324,Activity by Treatment Function,Attended subsequent tele consultation,341,Respiratory Physiology,134816
+2324,Activity by Treatment Function,Attended subsequent tele consultation,342,Programmed Pulmonary Rehabilitation,7950
+2324,Activity by Treatment Function,Attended subsequent tele consultation,343,Adult Cystic Fibrosis,6578
+2324,Activity by Treatment Function,Attended subsequent tele consultation,344,Complex Specialised Rehabilitation Service,593
+2324,Activity by Treatment Function,Attended subsequent tele consultation,345,Specialist Rehabilitation Service,5127
+2324,Activity by Treatment Function,Attended subsequent tele consultation,346,Local Specialist Rehabilitation Service,2184
+2324,Activity by Treatment Function,Attended subsequent tele consultation,347,Sleep Medicine Service,26626
+2324,Activity by Treatment Function,Attended subsequent tele consultation,348,Post-COVID-19 Syndrome Service,8598
+2324,Activity by Treatment Function,Attended subsequent tele consultation,350,Infectious Diseases,39742
+2324,Activity by Treatment Function,Attended subsequent tele consultation,352,Tropical Medicine,1885
+2324,Activity by Treatment Function,Attended subsequent tele consultation,360,Genitourinary Medicine,17693
+2324,Activity by Treatment Function,Attended subsequent tele consultation,361,Nephrology,213544
+2324,Activity by Treatment Function,Attended subsequent tele consultation,370,Medical Oncology,777350
+2324,Activity by Treatment Function,Attended subsequent tele consultation,371,Nuclear Medicine,1503
+2324,Activity by Treatment Function,Attended subsequent tele consultation,400,Neurology,433812
+2324,Activity by Treatment Function,Attended subsequent tele consultation,401,Clinical Neuro-physiology,661
+2324,Activity by Treatment Function,Attended subsequent tele consultation,410,Rheumatology,620869
+2324,Activity by Treatment Function,Attended subsequent tele consultation,420,Paediatrics,180887
+2324,Activity by Treatment Function,Attended subsequent tele consultation,421,Paediatric Neurology,20113
+2324,Activity by Treatment Function,Attended subsequent tele consultation,422,Neonatology,7661
+2324,Activity by Treatment Function,Attended subsequent tele consultation,424,Well Babies,364
+2324,Activity by Treatment Function,Attended subsequent tele consultation,430,Geriatric Medicine,58776
+2324,Activity by Treatment Function,Attended subsequent tele consultation,431,Orthogeriatric Medicine Service,10
+2324,Activity by Treatment Function,Attended subsequent tele consultation,450,Dental Medicine Specialties,9255
+2324,Activity by Treatment Function,Attended subsequent tele consultation,451,Special Care Dentistry Service,590
+2324,Activity by Treatment Function,Attended subsequent tele consultation,460,Medical Ophthalmology,3450
+2324,Activity by Treatment Function,Attended subsequent tele consultation,461,Ophthalmic and Vision Science Service,5
+2324,Activity by Treatment Function,Attended subsequent tele consultation,501,Obstetrics,172757
+2324,Activity by Treatment Function,Attended subsequent tele consultation,502,Gynaecology,348769
+2324,Activity by Treatment Function,Attended subsequent tele consultation,503,Gynaecological Oncology,37169
+2324,Activity by Treatment Function,Attended subsequent tele consultation,505,Fetal Medicine Service,132
+2324,Activity by Treatment Function,Attended subsequent tele consultation,560,Midwife episode,135511
+2324,Activity by Treatment Function,Attended subsequent tele consultation,650,Physiotherapy,232423
+2324,Activity by Treatment Function,Attended subsequent tele consultation,651,Occupational Therapy,54486
+2324,Activity by Treatment Function,Attended subsequent tele consultation,652,Speech and Language Therapy,47013
+2324,Activity by Treatment Function,Attended subsequent tele consultation,653,Podiatry,9284
+2324,Activity by Treatment Function,Attended subsequent tele consultation,654,Dietetics,261334
+2324,Activity by Treatment Function,Attended subsequent tele consultation,655,Orthoptics,13191
+2324,Activity by Treatment Function,Attended subsequent tele consultation,656,Clinical Psychology,48252
+2324,Activity by Treatment Function,Attended subsequent tele consultation,657,Prosthetics,1193
+2324,Activity by Treatment Function,Attended subsequent tele consultation,658,Orthotics,12187
+2324,Activity by Treatment Function,Attended subsequent tele consultation,659,Dramatherapy,1
+2324,Activity by Treatment Function,Attended subsequent tele consultation,661,Music Therapy,5
+2324,Activity by Treatment Function,Attended subsequent tele consultation,662,Optometry,3014
+2324,Activity by Treatment Function,Attended subsequent tele consultation,663,Podiatric Surgery,3403
+2324,Activity by Treatment Function,Attended subsequent tele consultation,670,Urological Physiology Service,1421
+2324,Activity by Treatment Function,Attended subsequent tele consultation,675,Cardiac Physiology Service,7615
+2324,Activity by Treatment Function,Attended subsequent tele consultation,677,Gastrointestinal Physiology Service,6823
+2324,Activity by Treatment Function,Attended subsequent tele consultation,700,Learning Disability (previously MH),12521
+2324,Activity by Treatment Function,Attended subsequent tele consultation,710,Adult Mental Illness,239527
+2324,Activity by Treatment Function,Attended subsequent tele consultation,711,Child & Adolescent Psychiatry,150862
+2324,Activity by Treatment Function,Attended subsequent tele consultation,712,Forensic Psychiatry,2001
+2324,Activity by Treatment Function,Attended subsequent tele consultation,713,Psychotherapy,7480
+2324,Activity by Treatment Function,Attended subsequent tele consultation,715,Old Age Psychiatry,36405
+2324,Activity by Treatment Function,Attended subsequent tele consultation,720,Eating Disorders,3714
+2324,Activity by Treatment Function,Attended subsequent tele consultation,721,Addiction Services,37
+2324,Activity by Treatment Function,Attended subsequent tele consultation,722,Liaison Psychiatry,1529
+2324,Activity by Treatment Function,Attended subsequent tele consultation,723,Psychiatric Intensive Care,3
+2324,Activity by Treatment Function,Attended subsequent tele consultation,724,Perinatal Psychiatry,1818
+2324,Activity by Treatment Function,Attended subsequent tele consultation,725,Mental Health Recovery and Rehabilitation Service,587
+2324,Activity by Treatment Function,Attended subsequent tele consultation,727,Dementia Assessment Service,462
+2324,Activity by Treatment Function,Attended subsequent tele consultation,730,Neuropsychiatry Service,1817
+2324,Activity by Treatment Function,Attended subsequent tele consultation,800,Clinical Oncology (previously Radiotherapy),690052
+2324,Activity by Treatment Function,Attended subsequent tele consultation,811,Interventional Radiology,6721
+2324,Activity by Treatment Function,Attended subsequent tele consultation,812,Diagnostic Imaging,11756
+2324,Activity by Treatment Function,Attended subsequent tele consultation,822,Chemical Pathology,32008
+2324,Activity by Treatment Function,Attended subsequent tele consultation,834,Medical Virology,528
+2324,Activity by Treatment Function,Attended subsequent tele consultation,840,Audiology,217740
+2324,Activity by Treatment Function,Attended subsequent tele consultation,920,Diabetic Education Service,192
+2324,Activity by Treatment Function,Attended subsequent tele consultation,990,Retired,220
+2324,Activity by Treatment Function,Attended subsequent tele consultation,&,Not Known,31007
+2324,Activity by Treatment Function,Attended subsequent tele consultation,All,All,14080684
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,100,General Surgery,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,101,Urology,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,102,Transplantation Surgery,8.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,103,Breast Surgery,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,104,Colorectal Surgery,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,105,Hepatobiliary & Pancreatic Surgery,2.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,106,Upper Gastrointestinal Surgery,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,107,Vascular Surgery,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,108,Spinal Surgery Service,1.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,109,Bariatric Surgery Service,2.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,110,Trauma & Orthopaedics,1.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,111,Orthopaedic Service,2.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,113,Endocrine Surgery Service,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,115,Trauma Surgery Service,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,120,"Ear, Nose & Throat (ENT)",1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,130,Ophthalmology,2.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,140,Oral Surgery,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,141,Restorative Dentistry,4.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,142,Paediatric Dentistry,2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,143,Orthodontics,10.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,144,Maxillo Facial Surgery,1.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,145,Oral and Maxillofacial Surgery Service,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,150,Neurosurgery,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,160,Plastic Surgery,2.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,161,Burns Care,2.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,170,Cardiothoracic Surgery,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,171,Paediatric Surgery,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,172,Cardiac Surgery,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,173,Thoracic Surgery,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,174,Cardiothoracic Transplantation,12
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,180,Accident & Emergency (A&E),0.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,190,Anaesthetics,1.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,191,Pain Management,2.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,192,Critical Care Medicine,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,211,Paediatric Urology,1.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,212,Paediatric Transplantation Surgery,102.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,213,Paediatric Gastrointestinal Surgery,0.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,214,Paediatric Trauma and Orthopaedics,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,215,Paediatric Ear Nose and Throat,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,216,Paediatric Ophthalmology,2.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,217,Paediatric Maxillo-facial Surgery,1.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,218,Paediatric Neurosurgery,3.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,219,Paediatric Plastic Surgery,1.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,220,Paediatric Burns Care,3.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,221,Paediatric Cardiac Surgery,1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,222,Paediatric Thoracic Surgery,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,223,Paediatric Epilepsy,4.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,230,Paediatric Clinical Pharmacology Service,0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,240,Paediatric Palliative Medicine Service,13
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,241,Paediatric Pain Management,4.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,242,Paediatric Intensive Care,24.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,250,Paediatric Hepatology Service,145
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,251,Paediatric Gastroenterology,3.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,252,Paediatric Endocrinology,4.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,253,Paediatric Clinical Haematology,5.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,254,Paediatric Audiological Medicine,1.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,255,Paediatric Clinical Immunology and Allergy,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,256,Paediatric Infectious Diseases,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,257,Paediatric Dermatology,1.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,258,Paediatric Respiratory Medicine,2.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,259,Paediatric Nephrology,6.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,260,Paediatric Medical Oncology,16.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,261,Paediatric Metabolic Disease,5.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,262,Paediatric Rheumatology,4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,263,Paediatric Diabetic Medicine,25.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,264,Paediatric Cystic Fibrosis,46.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,270,Paediatric Emergency Medicine Service,0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,280,Paediatric Interventional Radiology,17.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,290,Community Paediatrics,3.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,291,Paediatric Neuro-disability,2.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,300,General Medicine,1.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,301,Gastroenterology,1.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,302,Endocrinology,2.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,303,Clinical Haematology,7.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,304,Clinical Physiology,0.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,305,Clinical Pharmacology,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,306,Hepatology,2.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,307,Diabetic Medicine,4.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,308,Bone & Marrow Transplantation,15.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,309,Haemophilia,6.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,310,Audiological Medicine,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,311,Clinical Genetics,0.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,313,Clinical Immunology & Allergy,2.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,314,Rehabilitation,3.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,315,Palliative Medicine,4.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,316,Clinical Immunology,3.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,317,Allergy,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,318,Intermediate Care,6.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,319,Respite Care,0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,320,Cardiology,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,321,Paediatric Cardiology,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,322,Clinical Microbiology,0.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,323,Spinal Injuries,7.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,324,Anticoagulant Service,9.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,325,Sport & Exercise Medicine,1.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,326,Acute Internal Medicine Service,0.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,327,Cardiac Rehabilitation,5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,328,Stroke Medicine,1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,329,Transient Ischaemic Attack,0.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,330,Dermatology,1.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,331,Congenital Heart Disease Service ,3.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,335,Inherited Metabolic Medicine Service,15.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,340,Respiratory Medicine (Thoracic Medicine),1.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,341,Respiratory Physiology,1.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,342,Programmed Pulmonary Rehabilitation,6.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,343,Adult Cystic Fibrosis,24.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,344,Complex Specialised Rehabilitation Service,3.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,345,Specialist Rehabilitation Service,6.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,346,Local Specialist Rehabilitation Service,15.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,347,Sleep Medicine Service,2.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,348,Post-COVID-19 Syndrome Service,3.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,350,Infectious Diseases,3.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,352,Tropical Medicine,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,360,Genitourinary Medicine,6.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,361,Nephrology,8.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,370,Medical Oncology,12.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,371,Nuclear Medicine,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,400,Neurology,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,401,Clinical Neuro-physiology,0.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,410,Rheumatology,4.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,420,Paediatrics,1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,421,Paediatric Neurology,2.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,422,Neonatology,1.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,424,Well Babies,1.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,430,Geriatric Medicine,1.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,431,Orthogeriatric Medicine Service,0.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,450,Dental Medicine Specialties,2.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,451,Special Care Dentistry Service,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,460,Medical Ophthalmology,4.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,461,Ophthalmic and Vision Science Service,5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,499,"Non-UK Provider; specialty function not known, treatment mainly medical",0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,501,Obstetrics,2.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,502,Gynaecology,1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,503,Gynaecological Oncology,1.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,505,Fetal Medicine Service,2.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,560,Midwife episode,4.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,650,Physiotherapy,2.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,651,Occupational Therapy,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,652,Speech and Language Therapy,3.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,653,Podiatry,5.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,654,Dietetics,2.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,655,Orthoptics,2.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,656,Clinical Psychology,3.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,657,Prosthetics,7.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,658,Orthotics,1.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,659,Dramatherapy,401.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,660,Art Therapy,0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,661,Music Therapy,2.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,662,Optometry,2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,663,Podiatric Surgery,3.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,670,Urological Physiology Service,3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,673,Vascular Physiology Service,0.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,675,Cardiac Physiology Service,1.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,677,Gastrointestinal Physiology Service,2.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,700,Learning Disability (previously MH),7.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,710,Adult Mental Illness,6.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,711,Child & Adolescent Psychiatry,6.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,712,Forensic Psychiatry,7.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,713,Psychotherapy,7.2
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,715,Old Age Psychiatry,3.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,720,Eating Disorders,9.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,721,Addiction Services,3.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,722,Liaison Psychiatry,2.1
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,723,Psychiatric Intensive Care,11
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,724,Perinatal Psychiatry,8.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,725,Mental Health Recovery and Rehabilitation Service,76.8
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,726,Mental Health Dual Diagnosis Service,0
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,727,Dementia Assessment Service,2.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,730,Neuropsychiatry Service,2.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,800,Clinical Oncology (previously Radiotherapy),7.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,811,Interventional Radiology,0.6
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,812,Diagnostic Imaging,0.9
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,822,Chemical Pathology,1.7
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,834,Medical Virology,11
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,840,Audiology,1.5
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,920,Diabetic Education Service,1.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,990,Retired,1.4
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,&,Not Known,5.3
+2324,Activity by Treatment Function,Follow-up attendances for each first attendance,All,All,2.1
+2324,Activity by Treatment Function,Percentage of all attendances,100,General Surgery,1.9
+2324,Activity by Treatment Function,Percentage of all attendances,101,Urology,3
+2324,Activity by Treatment Function,Percentage of all attendances,102,Transplantation Surgery,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,103,Breast Surgery,1.5
+2324,Activity by Treatment Function,Percentage of all attendances,104,Colorectal Surgery,1.1
+2324,Activity by Treatment Function,Percentage of all attendances,105,Hepatobiliary & Pancreatic Surgery,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,106,Upper Gastrointestinal Surgery,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,107,Vascular Surgery,0.5
+2324,Activity by Treatment Function,Percentage of all attendances,108,Spinal Surgery Service,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,109,Bariatric Surgery Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,110,Trauma & Orthopaedics,6.7
+2324,Activity by Treatment Function,Percentage of all attendances,111,Orthopaedic Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,113,Endocrine Surgery Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,115,Trauma Surgery Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,120,"Ear, Nose & Throat (ENT)",2.5
+2324,Activity by Treatment Function,Percentage of all attendances,130,Ophthalmology,8.5
+2324,Activity by Treatment Function,Percentage of all attendances,140,Oral Surgery,0.7
+2324,Activity by Treatment Function,Percentage of all attendances,141,Restorative Dentistry,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,142,Paediatric Dentistry,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,143,Orthodontics,0.6
+2324,Activity by Treatment Function,Percentage of all attendances,144,Maxillo Facial Surgery,0.5
+2324,Activity by Treatment Function,Percentage of all attendances,145,Oral and Maxillofacial Surgery Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,150,Neurosurgery,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,160,Plastic Surgery,1
+2324,Activity by Treatment Function,Percentage of all attendances,161,Burns Care,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,170,Cardiothoracic Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,171,Paediatric Surgery,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,172,Cardiac Surgery,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,173,Thoracic Surgery,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,174,Cardiothoracic Transplantation,0
+2324,Activity by Treatment Function,Percentage of all attendances,180,Accident & Emergency (A&E),0.2
+2324,Activity by Treatment Function,Percentage of all attendances,190,Anaesthetics,1
+2324,Activity by Treatment Function,Percentage of all attendances,191,Pain Management,0.7
+2324,Activity by Treatment Function,Percentage of all attendances,192,Critical Care Medicine,0
+2324,Activity by Treatment Function,Percentage of all attendances,211,Paediatric Urology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,212,Paediatric Transplantation Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,213,Paediatric Gastrointestinal Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,214,Paediatric Trauma and Orthopaedics,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,215,Paediatric Ear Nose and Throat,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,216,Paediatric Ophthalmology,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,217,Paediatric Maxillo-facial Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,218,Paediatric Neurosurgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,219,Paediatric Plastic Surgery,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,220,Paediatric Burns Care,0
+2324,Activity by Treatment Function,Percentage of all attendances,221,Paediatric Cardiac Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,222,Paediatric Thoracic Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,223,Paediatric Epilepsy,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,230,Paediatric Clinical Pharmacology Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,240,Paediatric Palliative Medicine Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,241,Paediatric Pain Management,0
+2324,Activity by Treatment Function,Percentage of all attendances,242,Paediatric Intensive Care,0
+2324,Activity by Treatment Function,Percentage of all attendances,250,Paediatric Hepatology Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,251,Paediatric Gastroenterology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,252,Paediatric Endocrinology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,253,Paediatric Clinical Haematology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,254,Paediatric Audiological Medicine,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,255,Paediatric Clinical Immunology and Allergy,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,256,Paediatric Infectious Diseases,0
+2324,Activity by Treatment Function,Percentage of all attendances,257,Paediatric Dermatology,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,258,Paediatric Respiratory Medicine,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,259,Paediatric Nephrology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,260,Paediatric Medical Oncology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,261,Paediatric Metabolic Disease,0
+2324,Activity by Treatment Function,Percentage of all attendances,262,Paediatric Rheumatology,0
+2324,Activity by Treatment Function,Percentage of all attendances,263,Paediatric Diabetic Medicine,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,264,Paediatric Cystic Fibrosis,0
+2324,Activity by Treatment Function,Percentage of all attendances,270,Paediatric Emergency Medicine Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,280,Paediatric Interventional Radiology,0
+2324,Activity by Treatment Function,Percentage of all attendances,290,Community Paediatrics,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,291,Paediatric Neuro-disability,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,300,General Medicine,1.1
+2324,Activity by Treatment Function,Percentage of all attendances,301,Gastroenterology,2.1
+2324,Activity by Treatment Function,Percentage of all attendances,302,Endocrinology,0.8
+2324,Activity by Treatment Function,Percentage of all attendances,303,Clinical Haematology,2.1
+2324,Activity by Treatment Function,Percentage of all attendances,304,Clinical Physiology,0.6
+2324,Activity by Treatment Function,Percentage of all attendances,305,Clinical Pharmacology,0
+2324,Activity by Treatment Function,Percentage of all attendances,306,Hepatology,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,307,Diabetic Medicine,1.2
+2324,Activity by Treatment Function,Percentage of all attendances,308,Bone & Marrow Transplantation,0
+2324,Activity by Treatment Function,Percentage of all attendances,309,Haemophilia,0
+2324,Activity by Treatment Function,Percentage of all attendances,310,Audiological Medicine,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,311,Clinical Genetics,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,313,Clinical Immunology & Allergy,0
+2324,Activity by Treatment Function,Percentage of all attendances,314,Rehabilitation,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,315,Palliative Medicine,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,316,Clinical Immunology,0
+2324,Activity by Treatment Function,Percentage of all attendances,317,Allergy,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,318,Intermediate Care,0.8
+2324,Activity by Treatment Function,Percentage of all attendances,319,Respite Care,0
+2324,Activity by Treatment Function,Percentage of all attendances,320,Cardiology,3.9
+2324,Activity by Treatment Function,Percentage of all attendances,321,Paediatric Cardiology,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,322,Clinical Microbiology,0
+2324,Activity by Treatment Function,Percentage of all attendances,323,Spinal Injuries,0
+2324,Activity by Treatment Function,Percentage of all attendances,324,Anticoagulant Service,0.7
+2324,Activity by Treatment Function,Percentage of all attendances,325,Sport & Exercise Medicine,0
+2324,Activity by Treatment Function,Percentage of all attendances,326,Acute Internal Medicine Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,327,Cardiac Rehabilitation,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,328,Stroke Medicine,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,329,Transient Ischaemic Attack,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,330,Dermatology,3.5
+2324,Activity by Treatment Function,Percentage of all attendances,331,Congenital Heart Disease Service ,0
+2324,Activity by Treatment Function,Percentage of all attendances,335,Inherited Metabolic Medicine Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,340,Respiratory Medicine (Thoracic Medicine),2.2
+2324,Activity by Treatment Function,Percentage of all attendances,341,Respiratory Physiology,0.6
+2324,Activity by Treatment Function,Percentage of all attendances,342,Programmed Pulmonary Rehabilitation,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,343,Adult Cystic Fibrosis,0
+2324,Activity by Treatment Function,Percentage of all attendances,344,Complex Specialised Rehabilitation Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,345,Specialist Rehabilitation Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,346,Local Specialist Rehabilitation Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,347,Sleep Medicine Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,348,Post-COVID-19 Syndrome Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,350,Infectious Diseases,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,352,Tropical Medicine,0
+2324,Activity by Treatment Function,Percentage of all attendances,360,Genitourinary Medicine,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,361,Nephrology,1.1
+2324,Activity by Treatment Function,Percentage of all attendances,370,Medical Oncology,2.3
+2324,Activity by Treatment Function,Percentage of all attendances,371,Nuclear Medicine,0
+2324,Activity by Treatment Function,Percentage of all attendances,400,Neurology,1.6
+2324,Activity by Treatment Function,Percentage of all attendances,401,Clinical Neuro-physiology,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,410,Rheumatology,2.1
+2324,Activity by Treatment Function,Percentage of all attendances,420,Paediatrics,1.7
+2324,Activity by Treatment Function,Percentage of all attendances,421,Paediatric Neurology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,422,Neonatology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,424,Well Babies,0
+2324,Activity by Treatment Function,Percentage of all attendances,430,Geriatric Medicine,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,431,Orthogeriatric Medicine Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,450,Dental Medicine Specialties,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,451,Special Care Dentistry Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,460,Medical Ophthalmology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,461,Ophthalmic and Vision Science Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,499,"Non-UK Provider; specialty function not known, treatment mainly medical",0
+2324,Activity by Treatment Function,Percentage of all attendances,501,Obstetrics,3.4
+2324,Activity by Treatment Function,Percentage of all attendances,502,Gynaecology,3.4
+2324,Activity by Treatment Function,Percentage of all attendances,503,Gynaecological Oncology,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,505,Fetal Medicine Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,560,Midwife episode,3.6
+2324,Activity by Treatment Function,Percentage of all attendances,650,Physiotherapy,4.7
+2324,Activity by Treatment Function,Percentage of all attendances,651,Occupational Therapy,0.5
+2324,Activity by Treatment Function,Percentage of all attendances,652,Speech and Language Therapy,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,653,Podiatry,0.5
+2324,Activity by Treatment Function,Percentage of all attendances,654,Dietetics,0.7
+2324,Activity by Treatment Function,Percentage of all attendances,655,Orthoptics,0.4
+2324,Activity by Treatment Function,Percentage of all attendances,656,Clinical Psychology,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,657,Prosthetics,0
+2324,Activity by Treatment Function,Percentage of all attendances,658,Orthotics,0.3
+2324,Activity by Treatment Function,Percentage of all attendances,659,Dramatherapy,0
+2324,Activity by Treatment Function,Percentage of all attendances,660,Art Therapy,0
+2324,Activity by Treatment Function,Percentage of all attendances,661,Music Therapy,0
+2324,Activity by Treatment Function,Percentage of all attendances,662,Optometry,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,663,Podiatric Surgery,0
+2324,Activity by Treatment Function,Percentage of all attendances,670,Urological Physiology Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,673,Vascular Physiology Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,675,Cardiac Physiology Service,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,677,Gastrointestinal Physiology Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,700,Learning Disability (previously MH),0.1
+2324,Activity by Treatment Function,Percentage of all attendances,710,Adult Mental Illness,1.2
+2324,Activity by Treatment Function,Percentage of all attendances,711,Child & Adolescent Psychiatry,0.6
+2324,Activity by Treatment Function,Percentage of all attendances,712,Forensic Psychiatry,0
+2324,Activity by Treatment Function,Percentage of all attendances,713,Psychotherapy,0
+2324,Activity by Treatment Function,Percentage of all attendances,715,Old Age Psychiatry,0.2
+2324,Activity by Treatment Function,Percentage of all attendances,720,Eating Disorders,0
+2324,Activity by Treatment Function,Percentage of all attendances,721,Addiction Services,0
+2324,Activity by Treatment Function,Percentage of all attendances,722,Liaison Psychiatry,0
+2324,Activity by Treatment Function,Percentage of all attendances,723,Psychiatric Intensive Care,0
+2324,Activity by Treatment Function,Percentage of all attendances,724,Perinatal Psychiatry,0
+2324,Activity by Treatment Function,Percentage of all attendances,725,Mental Health Recovery and Rehabilitation Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,726,Mental Health Dual Diagnosis Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,727,Dementia Assessment Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,730,Neuropsychiatry Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,800,Clinical Oncology (previously Radiotherapy),2.8
+2324,Activity by Treatment Function,Percentage of all attendances,811,Interventional Radiology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,812,Diagnostic Imaging,6.4
+2324,Activity by Treatment Function,Percentage of all attendances,822,Chemical Pathology,0.1
+2324,Activity by Treatment Function,Percentage of all attendances,834,Medical Virology,0
+2324,Activity by Treatment Function,Percentage of all attendances,840,Audiology,1.8
+2324,Activity by Treatment Function,Percentage of all attendances,920,Diabetic Education Service,0
+2324,Activity by Treatment Function,Percentage of all attendances,990,Retired,0
+2324,Activity by Treatment Function,Percentage of all attendances,&,Not Known,0.5
+2324,Activity by Treatment Function,Percentage of all attendances,All,All,100
